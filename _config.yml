@@ -1,1 +1,19 @@
+title: "Paris-Saclay Summer School in Economics"
+description: "Paris-Saclay Summer School in Economics, organized by the Centre for Economics at Paris-Saclay."
 
+url: "https://paris-saclay-summerschool.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "default"
+
+locale: "en-US"
+
+plugins:
+  - jekyll-include-cache
+
+search: false
+breadcrumbs: false
+
+atom_feed:
+  hide: true
