@@ -45,3 +45,50 @@
 .greedy-nav .visible-links li {
   margin-left: 0.45rem;
 }
+
+/* ==========================================================================
+   Summer School sidebar
+   ========================================================================== */
+
+.summer-school-sidebar {
+  font-size: 0.78rem;
+  line-height: 1.45;
+}
+
+.sidebar-block {
+  margin-bottom: 2rem;
+}
+
+.sidebar-label {
+  margin-bottom: 0.8rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #666;
+}
+
+.sidebar-text {
+  color: #444;
+}
+
+.sidebar-logo {
+  display: block;
+  height: auto;
+}
+
+.sidebar-logo-ceps {
+  width: 170px;
+  max-width: 100%;
+}
+
+.sidebar-logo-ens {
+  width: 150px;
+  max-width: 100%;
+  margin-bottom: 1.3rem;
+}
+
+.sidebar-logo-gs {
+  width: 145px;
+  max-width: 100%;
+}
