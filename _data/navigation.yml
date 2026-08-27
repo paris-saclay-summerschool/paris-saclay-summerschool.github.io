@@ -1,0 +1,15 @@
+main:
+  - title: "Overview"
+    url: /
+  - title: "Course Program"
+    url: /program/
+  - title: "Faculty"
+    url: /faculty/
+  - title: "Applications"
+    url: /applications/
+  - title: "Registration"
+    url: /registration/
+  - title: "Practical Information"
+    url: /practical-information/
+  - title: "Social Events"
+    url: /social-events/
