@@ -1,1 +1,47 @@
+---
+# Only the main Sass file needs front matter
+---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ==========================================================================
+   Paris-Saclay Summer School — custom styles
+   ========================================================================== */
+
+/* Wider masthead */
+.masthead__inner-wrap {
+  max-width: 1400px;
+}
+
+/* Site title */
+.greedy-nav .site-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: -0.01em;
+}
+
+/* Main navigation */
+.greedy-nav a {
+  font-size: 0.82rem;
+}
+
+.greedy-nav .visible-links a:before {
+  height: 2px;
+}
+
+/* Slightly cleaner masthead */
+.masthead {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.greedy-nav {
+  background: #fff;
+}
+
+/* More breathing room */
+.greedy-nav .visible-links li {
+  margin-left: 0.45rem;
+}
