@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: summer-school
 title: "Paris-Saclay Summer School in Economics"
 permalink: /
 classes: wide
