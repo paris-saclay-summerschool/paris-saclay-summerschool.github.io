@@ -3,45 +3,8 @@ layout: summer-school
 title: "Paris-Saclay Summer School in Economics"
 permalink: /
 classes: wide
+home_hero: true
 ---
-
-<div class="summer-hero">
-  <div class="summer-hero__overlay"></div>
-
-  <div class="summer-hero__content">
-    <h1>Paris-Saclay Summer School in Economics</h1>
-
-    <div class="summer-hero__theme">
-      Sustainable Development
-    </div>
-
-    <div class="summer-hero__date">
-      July 5–10, 2027
-    </div>
-
-    <div class="summer-hero__organizer">
-      Centre for Economics at Paris-Saclay
-    </div>
-
-    <div class="summer-hero__actions">
-      <a class="hero-btn hero-btn--secondary" href="#">
-        Download flyer
-      </a>
-
-      <a class="hero-btn hero-btn--primary" href="#">
-        Apply now
-      </a>
-
-      <span class="hero-btn hero-btn--inactive">
-        Registration opens later
-      </span>
-    </div>
-  </div>
-
-  <div class="summer-hero__credit">
-    Photo: Michel Denancé (RPWB)
-  </div>
-</div>
 
 <nav class="on-this-page" aria-label="On this page">
   <span class="on-this-page__label">On this page</span>
