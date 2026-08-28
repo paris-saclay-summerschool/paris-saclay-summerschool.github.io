@@ -120,8 +120,6 @@
 
 /* Logos */
 
-/* Logos */
-
 .sidebar-logo {
   display: block;
   width: 145px;
@@ -130,7 +128,7 @@
 }
 
 .sidebar-logo-ens {
-  width: 175px;
+  width: 185px;
 }
 
 /* ENS logo belongs to the Venue block */
@@ -167,4 +165,165 @@
 .page__footer-copyright strong {
   color: #00778B;
   font-weight: 700;
+}
+
+/* ==========================================================================
+   Hero
+   ========================================================================== */
+
+.summer-hero {
+  position: relative;
+  min-height: 460px;
+  margin-bottom: 1.8rem;
+  overflow: hidden;
+  background-image: url("/assets/images/hero-2027.jpg");
+  background-size: cover;
+  background-position: center center;
+  border-radius: 2px;
+}
+
+.summer-hero__overlay {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(8, 28, 38, 0.64) 0%,
+      rgba(8, 28, 38, 0.44) 48%,
+      rgba(8, 28, 38, 0.08) 100%
+    );
+}
+
+.summer-hero__content {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+  padding: 3.4rem 3.2rem;
+  color: #fff;
+}
+
+.summer-hero__content h1 {
+  margin: 0 0 0.65rem;
+  color: #fff;
+  font-size: 2.25rem;
+  line-height: 1.12;
+  font-weight: 600;
+}
+
+.summer-hero__theme {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.summer-hero__date {
+  margin-bottom: 0.3rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.summer-hero__organizer {
+  margin-bottom: 1.7rem;
+  font-size: 0.9rem;
+  opacity: 0.95;
+}
+
+.summer-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+}
+
+.hero-btn {
+  display: inline-block;
+  padding: 0.7rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.85);
+  border-radius: 3px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.hero-btn--primary {
+  background: #00778B;
+  border-color: #00778B;
+  color: #fff;
+}
+
+.hero-btn--secondary {
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
+.hero-btn--inactive {
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.8);
+  cursor: default;
+}
+
+.summer-hero__credit {
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.55rem;
+  z-index: 2;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.58rem;
+}
+
+/* On this page */
+
+.on-this-page {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.1rem;
+  margin-bottom: 2.3rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e8e8e8;
+  font-size: 0.78rem;
+}
+
+.on-this-page__label {
+  font-weight: 700;
+  color: #555;
+}
+
+.on-this-page a {
+  color: #00778B;
+  text-decoration: none;
+}
+
+/* Important dates */
+
+.important-dates {
+  margin: 2rem 0 2.4rem;
+  padding: 1.4rem 1.6rem;
+  background: #fff1df;
+  border-radius: 3px;
+}
+
+.important-dates h2 {
+  margin-top: 0;
+}
+
+.important-dates ul {
+  margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+  .summer-hero {
+    min-height: 500px;
+  }
+
+  .summer-hero__content {
+    padding: 2.3rem 1.5rem;
+  }
+
+  .summer-hero__content h1 {
+    font-size: 1.8rem;
+  }
+
+  .summer-hero__theme {
+    font-size: 1.25rem;
+  }
 }
