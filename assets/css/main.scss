@@ -167,3 +167,18 @@
   letter-spacing: -0.02em;
   color: #00778B;
 }
+
+.page__footer {
+  background-color: #fff;
+  border-top: 1px solid #e8e8e8;
+}
+
+.page__footer-copyright {
+  font-size: 0.72rem;
+  color: #777;
+}
+
+.page__footer-copyright strong {
+  color: #00778B;
+  font-weight: 700;
+}
