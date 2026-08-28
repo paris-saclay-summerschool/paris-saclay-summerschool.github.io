@@ -194,12 +194,26 @@
     );
 }
 
-.summer-hero__content {
+/* .summer-hero__content {
   position: relative;
   z-index: 2;
   max-width: 760px;
   padding: 3.4rem 3.2rem;
   color: #fff;
+} */
+
+.summer-hero__content {
+  position: relative;
+  z-index: 2;
+  max-width: 1100px;
+  padding: 3.4rem 3.2rem;
+  color: #fff;
+}
+
+@media (min-width: 900px) {
+  .summer-hero__content h1 {
+    white-space: nowrap;
+  }
 }
 
 .summer-hero__content h1 {
@@ -217,7 +231,7 @@
   font-weight: 400;
 }
 
-.summer-hero__date {
+/* .summer-hero__date {
   margin-bottom: 0.3rem;
   font-size: 1rem;
   font-weight: 600;
@@ -227,6 +241,19 @@
   margin-bottom: 1.7rem;
   font-size: 0.9rem;
   opacity: 0.95;
+}*/
+
+
+.summer-hero__organizer {
+  margin-bottom: 0.3rem;
+  font-size: 0.9rem;
+  opacity: 0.95;
+}
+
+.summer-hero__date {
+  margin-bottom: 1.7rem;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .summer-hero__actions {
