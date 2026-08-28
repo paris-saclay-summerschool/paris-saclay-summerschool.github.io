@@ -77,11 +77,17 @@
   height: auto;
 }
 
-.sidebar-logo-ceps,
-.sidebar-logo-ens,
+.sidebar-logo-ceps {
+  width: 155px;
+}
+
+.sidebar-logo-ens {
+  width: 155px;
+  margin-bottom: 1rem;
+}
+
 .sidebar-logo-gs {
-  width: 170px;
-  max-width: 100%;
+  width: 155px;
 }
 /* ==========================================================================
    Layout balance
