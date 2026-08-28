@@ -72,23 +72,6 @@
   color: #444;
 }
 
-.sidebar-logo {
-  display: block;
-  height: auto;
-}
-
-.sidebar-logo-ceps {
-  width: 155px;
-}
-
-.sidebar-logo-ens {
-  width: 155px;
-  margin-bottom: 1rem;
-}
-
-.sidebar-logo-gs {
-  width: 155px;
-}
 /* ==========================================================================
    Layout balance
    ========================================================================== */
@@ -137,17 +120,19 @@
 
 /* Logos */
 
-.sidebar-logo-ceps {
-  width: 155px;
+/* Logos */
+
+.sidebar-logo {
+  display: block;
+  width: 145px;
+  max-width: 100%;
+  height: auto;
 }
 
-.sidebar-logo-ens {
-  width: 135px;
-  margin-bottom: 1.6rem;
-}
-
-.sidebar-logo-gs {
-  width: 125px;
+/* ENS logo belongs to the Venue block */
+.sidebar-logo-venue {
+  margin-top: 1rem;
+  margin-bottom: 0;
 }
 
 /* Venue */
