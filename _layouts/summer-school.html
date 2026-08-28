@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.home_hero %}
+  <div class="summer-hero-wrap">
+    {% include home-hero.html %}
+  </div>
+{% endif %}
+
 <div id="main" role="main">
 
   <div class="sidebar sticky">
@@ -10,11 +16,9 @@ layout: default
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="page__inner-wrap">
-
       <section class="page__content" itemprop="text">
         {{ content }}
       </section>
-
     </div>
   </article>
 
