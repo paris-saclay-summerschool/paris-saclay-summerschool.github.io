@@ -329,11 +329,13 @@
 }
 
 .summer-hero-wrap {
-  max-width: 1400px;
-  margin: 0 auto 2rem;
-  padding: 0 1.5rem;
+  width: 100%;
+  max-width: none;
+  margin: 0 0 2rem;
+  padding: 0;
 }
 
 .summer-hero-wrap .summer-hero {
   margin-bottom: 0;
+  border-radius: 0;
 }
