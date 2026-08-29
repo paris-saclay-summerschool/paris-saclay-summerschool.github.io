@@ -4,6 +4,7 @@ title: "Paris-Saclay Summer School in Economics"
 permalink: /
 classes: wide
 home_hero: true
+on_this_page: true
 ---
 
 <h2 id="about">About the Summer School</h2>
