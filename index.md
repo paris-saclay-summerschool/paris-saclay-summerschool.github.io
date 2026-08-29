@@ -6,14 +6,6 @@ classes: wide
 home_hero: true
 ---
 
-<nav class="on-this-page" aria-label="On this page">
-  <span class="on-this-page__label">On this page</span>
-  <a href="#about">About</a>
-  <a href="#applications">Applications &amp; Registration</a>
-  <a href="#dates">Important Dates</a>
-  <a href="#keynotes">Keynote Speakers</a>
-</nav>
-
 <h2 id="about">About the Summer School</h2>
 
 <p>
