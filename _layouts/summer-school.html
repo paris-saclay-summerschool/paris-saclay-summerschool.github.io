@@ -8,44 +8,33 @@ layout: default
   </div>
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main" class="summer-school-grid">
 
-  <div class="sidebar sticky">
+  <aside class="summer-school-left">
     {% include summer-school-sidebar.html %}
-  </div>
+  </aside>
 
-  <article class="page h-entry"
+  <article class="summer-school-content"
            itemscope
            itemtype="https://schema.org/CreativeWork">
 
-    <div class="page__inner-wrap">
-
-      {% if page.toc %}
-        <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
-          <nav class="toc" aria-label="Table of contents">
-            <header>
-              <h4 class="nav__title">
-                {{ page.toc_label | default: "On this page" }}
-              </h4>
-            </header>
-
-            {% include toc.html
-               sanitize=true
-               html=content
-               h_min=2
-               h_max=2
-               class="toc__menu"
-               skip_no_ids=true %}
-          </nav>
-        </aside>
-      {% endif %}
-
-      <section class="page__content e-content" itemprop="text">
-        {{ content }}
-      </section>
-
+    <div class="page__content" itemprop="text">
+      {{ content }}
     </div>
 
   </article>
+
+  <aside class="summer-school-toc">
+    <nav class="dse-toc" aria-label="On this page">
+      <div class="dse-toc__title">On this page</div>
+
+      <ul>
+        <li><a href="#about">About the Summer School</a></li>
+        <li><a href="#applications">Applications &amp; Registration</a></li>
+        <li><a href="#dates">Important Dates</a></li>
+        <li><a href="#keynotes">Keynote Speakers</a></li>
+      </ul>
+    </nav>
+  </aside>
 
 </div>
