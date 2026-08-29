@@ -8,7 +8,7 @@ layout: default
   </div>
 {% endif %}
 
-<div id="main" role="main">
+<!-- <div id="main" role="main">
 
   <div class="sidebar sticky">
     {% include summer-school-sidebar.html %}
@@ -20,6 +20,38 @@ layout: default
         {{ content }}
       </section>
     </div>
+  </article> 
+</div> -->
+
+<div id="main" role="main">
+
+  <div class="sidebar sticky">
+    {% include summer-school-sidebar.html %}
+  </div>
+
+  <article class="page summer-school-main"
+           itemscope
+           itemtype="https://schema.org/CreativeWork">
+
+    <div class="page__inner-wrap">
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
+    </div>
+
   </article>
+
+  {% if page.on_this_page %}
+  <aside class="on-this-page-box sticky">
+    <h4>On this page</h4>
+
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#applications">Applications &amp; Registration</a></li>
+      <li><a href="#dates">Important Dates</a></li>
+      <li><a href="#keynotes">Keynote Speakers</a></li>
+    </ul>
+  </aside>
+  {% endif %}
 
 </div>
