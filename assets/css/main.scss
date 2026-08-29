@@ -59,9 +59,20 @@
   padding-left: 0.55rem;
   padding-right: 0.55rem;
   font-size: 0.82rem;
-  color: #333;
+  color: #222;
   text-decoration: none;
   transition: color 0.15s ease;
+}
+
+.greedy-nav .visible-links a:hover,
+.greedy-nav .visible-links a:focus {
+  color: #00778B;
+  text-decoration: none;
+}
+
+.greedy-nav .visible-links .active a,
+.greedy-nav .visible-links a.active {
+  color: #00778B;
 }
 
 /* Remove Minimal Mistakes underline effect */
