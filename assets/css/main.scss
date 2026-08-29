@@ -151,17 +151,9 @@
     padding-right: 1.5rem;
   }
 
-.page {
+   .page {
   width: calc(100% - 190px);
   padding-left: 1rem;
-  padding-right: 220px;
-}
-
-   @media (min-width: 64em) {
-  .sidebar__right {
-    width: 190px;
-    margin-right: -220px;
-  }
 }
 
   .page__inner-wrap {
