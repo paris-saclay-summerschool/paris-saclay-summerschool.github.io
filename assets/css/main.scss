@@ -385,39 +385,76 @@
 }*/
 
 /* ==========================================================================
-   On this page — Table of contents
+   Main three-column layout
    ========================================================================== */
 
-.toc {
-  background: #fff;
-  border: 1px solid #e5e5e5;
-  border-radius: 3px;
-  box-shadow: none;
+@media (min-width: 64em) {
+  .summer-school-grid {
+    display: grid;
+    grid-template-columns: 170px minmax(0, 1fr) 220px;
+    column-gap: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    align-items: start;
+  }
+
+  .summer-school-left,
+  .summer-school-content,
+  .summer-school-toc {
+    min-width: 0;
+  }
 }
 
-.toc .nav__title {
-  margin: 0;
-  padding: 0.75rem 1rem;
-  background: #f2f3f3;
-  color: #444;
+/* ==========================================================================
+   On this page
+   ========================================================================== */
+
+.dse-toc {
+  position: sticky;
+  top: 5rem;
+  background: #fff;
+  border: 1px solid #e6e6e6;
   font-size: 0.75rem;
+}
+
+.dse-toc__title {
+  padding: 0.65rem 0.8rem;
+  background: #f2f2f2;
+  color: #444;
   font-weight: 600;
 }
 
-.toc__menu {
-  padding: 0.5rem 0;
+.dse-toc ul {
+  margin: 0;
+  padding: 0.55rem 0;
+  list-style: none;
 }
 
-.toc__menu a {
-  color: #444;
+.dse-toc li {
+  margin: 0;
+}
+
+.dse-toc a {
+  display: block;
+  padding: 0.32rem 0.8rem;
+  color: #555;
+  line-height: 1.35;
   text-decoration: none;
 }
 
-.toc__menu a:hover,
-.toc__menu a:focus {
+.dse-toc a:hover,
+.dse-toc a:focus {
   color: #00778B;
   text-decoration: none;
-}/* Important dates */
+}
+
+@media (max-width: 63.99em) {
+  .summer-school-toc {
+    display: none;
+  }
+}
+/* Important dates */
 
 .important-dates {
   margin: 2rem 0 2.4rem;
