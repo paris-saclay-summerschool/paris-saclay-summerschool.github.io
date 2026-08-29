@@ -2,7 +2,6 @@
 layout: summer-school
 title: "Paris-Saclay Summer School in Economics"
 permalink: /
-classes: wide
 home_hero: true
 toc: true
 toc_label: "On this page"
