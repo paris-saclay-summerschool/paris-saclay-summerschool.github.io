@@ -16,20 +16,63 @@
   max-width: 1400px;
 }
 
-/* Site title */
+/* Site title 
 .greedy-nav .site-title {
   font-weight: 600;
   font-size: 0.95rem;
   letter-spacing: -0.01em;
 }
 
-/* Main navigation */
+/* Main navigation 
 .greedy-nav a {
   font-size: 0.82rem;
 }
 
 .greedy-nav .visible-links a:before {
   height: 2px;
+}*/
+
+/* ==========================================================================
+   Main navigation
+   ========================================================================== */
+
+.greedy-nav .site-title {
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+  color: #222;
+  white-space: nowrap;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.greedy-nav .visible-links li {
+  margin-left: 0;
+}
+
+.greedy-nav .visible-links a {
+  margin: 0;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+  font-size: 0.82rem;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+/* Remove Minimal Mistakes underline effect */
+.greedy-nav .visible-links a::before {
+  display: none;
+}
+
+/* Teal on hover */
+.greedy-nav .visible-links a:hover {
+  color: #00778B;
+  text-decoration: none;
 }
 
 /* Slightly cleaner masthead */
