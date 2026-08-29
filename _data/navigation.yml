@@ -3,13 +3,13 @@ main:
     url: /
   - title: "Course Program"
     url: /program/
+  - title: "Social Events"
+    url: /social-events/
   - title: "Faculty"
     url: /faculty/
+  - title: "Practical Information"
+    url: /practical-information/
   - title: "Applications"
     url: /applications/
   - title: "Registration"
-    url: /registration/
-  - title: "Practical Information"
-    url: /practical-information/
-  - title: "Social Events"
-    url: /social-events/
+    url: /registration/  
