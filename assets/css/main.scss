@@ -75,6 +75,12 @@
   color: #00778B;
 }
 
+.greedy-nav .visible-links a.active,
+.greedy-nav .visible-links a.active:hover,
+.greedy-nav .visible-links a.active:focus {
+  color: #00778B;
+}
+
 /* Remove Minimal Mistakes underline effect */
 .greedy-nav .visible-links a::before {
   display: none;
