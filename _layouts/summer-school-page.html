@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% if page.home_hero %}
+  <div class="summer-hero-wrap">
+    {% include home-hero.html %}
+  </div>
+{% endif %}
+
+<div class="summer-school-page-wrap">
+
+  <article class="summer-school-page-content"
+           itemscope
+           itemtype="https://schema.org/CreativeWork">
+
+    <div class="page__content" itemprop="text">
+      {{ content }}
+    </div>
+
+  </article>
+
+</div>
