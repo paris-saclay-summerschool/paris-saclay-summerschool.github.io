@@ -1,7 +1,8 @@
 ---
-layout: summer-school
+layout: summer-school-page
 title: "Committee & Faculty"
 permalink: /faculty/
+home_hero: true
 ---
 
 <h1>Committee & Faculty</h1>
