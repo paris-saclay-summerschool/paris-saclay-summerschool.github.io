@@ -3,6 +3,8 @@ layout: summer-school
 title: "Paris-Saclay Summer School in Economics"
 permalink: /
 home_hero: true
+hero_overview: true
+hero_image: /assets/images/hero-2027.jpg
 ---
 
 <h2 id="about">About the Summer School</h2>
