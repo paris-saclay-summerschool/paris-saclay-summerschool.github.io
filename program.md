@@ -151,7 +151,7 @@ choices of households, acting as an additional determinant beyond the usual ones
       <p class="course-professor">
         Professor:
         <a href="https://sites.google.com/view/natalia-zugravu-soilita/home">Natalia Zugravu</a><br>
-        University of Versailles Saint-Quentin-en-Yvelines, SOURCE, & & Centre for Economics at Paris-Saclay
+        University of Versailles Saint-Quentin-en-Yvelines, SOURCE, & Centre for Economics at Paris-Saclay
       </p>
 
       <p>
