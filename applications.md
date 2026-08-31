@@ -153,12 +153,15 @@ hero_image: /assets/images/applications-hero.jpg
   and teaching hours may be recognized toward their degree.
 </p>
 
-
-
-<h2>Questions</h2>
+<h2>Venue</h2>
 
 <p>
-  For questions concerning applications, eligibility, or registration,
-  please contact us by
-  <a class="text-link" href="mailto:[EMAIL]">email</a>.
+  <strong>ENS Paris-Saclay</strong><br>
+  4 avenue des Sciences<br>
+  91190 Gif-sur-Yvette<br>
+  France
+</p>
+
+<p> Courses, keynote lectures, and all Summer School activities will take
+  place on the ENS Paris-Saclay campus.
 </p>
