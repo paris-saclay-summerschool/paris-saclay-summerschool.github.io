@@ -1,4 +1,4 @@
-<div class="summer-hero"
+<div class="summer-hero{% if page.hero_class %} {{ page.hero_class }}{% endif %}"
      {% if page.hero_image %}
        style="background-image: url('{{ page.hero_image }}');"
      {% endif %}>
