@@ -1119,12 +1119,20 @@ a.hero-btn--secondary:focus {
   font-size: 0.82rem;
 }
 
-.fees-table th,
+.fees-table th:last-child,
+.fees-table td:last-child {
+  width: 220px;
+  min-width: 220px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* .fees-table th,
 .fees-table td {
   padding: 0.8rem 1rem;
   border: 1px solid #e2e2e2;
   text-align: left;
-}
+} */
 
 .fees-table th {
   background: #f2f2f2;
