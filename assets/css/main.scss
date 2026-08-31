@@ -1058,11 +1058,18 @@ a.hero-btn--secondary:focus {
 }
 
 .keynote-talk {
-  margin-top: 0.55rem;
+  margin-top: 0.3rem;
   font-size: 0.78rem;
   line-height: 1.4;
   color: #444;
 }
+
+/*.keynote-talk {
+  margin-top: 0.55rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: #444;
+}*/
 
 @media (max-width: 700px) {
   .keynote-grid {
