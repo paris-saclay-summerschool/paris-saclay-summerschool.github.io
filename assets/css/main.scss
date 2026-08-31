@@ -1081,3 +1081,15 @@ a.hero-btn--secondary:focus {
   min-height: 20px;
   background-position: center center;
 }*/
+
+.text-link {
+  color: #00778B;
+  font-weight: 400;
+  text-decoration: none !important;
+}
+
+.text-link:hover,
+.text-link:focus {
+  color: #005f70;
+  text-decoration: none !important;
+}
