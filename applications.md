@@ -128,16 +128,11 @@ hero_image: /assets/images/applications-hero.jpg
   </table>
 </div>
 
-<p>
-  Participation fees include all courses, lunches, coffee breaks, and
-  Summer School social events.<br>
-  *The accommodation package additionally
-  includes housing <strong>on the campus, from July 4 to July 11, 2027.</strong>.
+<p> *The accommodation package additionally includes housing <strong>on the campus, from July 4 to July 11, 2027.</strong>.
 </p>
 
 <p class="fees-note">
-  Fee eligibility is subject to proof of status, such as a certificate
-  of enrolment or valid student card.
+  Fee eligibility is subject to proof of status, such as a certificate of enrolment or valid student card. Participation fees include all courses, lunches, coffee breaks, and Summer School social events.
 </p>
 
 <h2>Certificate of Attendance &amp; ECTS</h2>
@@ -164,4 +159,5 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p> Courses, keynote lectures, and all Summer School activities will take
   place on the ENS Paris-Saclay campus.
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.6307990624123!2d2.1649724999999997!3d48.71253730000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67124d0aa37cb%3A0x9fa50097ff8f105a!2sENS%20Paris-Saclay!5e0!3m2!1sen!2sde!4v1788192933300!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </p>
