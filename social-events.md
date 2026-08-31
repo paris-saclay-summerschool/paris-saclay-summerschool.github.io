@@ -38,7 +38,11 @@ hero_image: /assets/images/social-events-hero.jpg
 
   <p>
     Participants will be invited to attend a performance at the
-    <strong>Scène de Recherche</strong>, the professional theatre located
+     <a href="https://ens-paris-saclay.fr/en/training-scene-de-recherche"
+       target="_blank"
+       rel="noopener">
+      Scène de Recherche
+    </a>, the professional theatre located
     within ENS Paris-Saclay. The performance will be based on the work of
     <strong>XX</strong>, offering a different perspective on this research
     through the performing arts.
@@ -61,13 +65,7 @@ hero_image: /assets/images/social-events-hero.jpg
        rel="noopener">
       Scène de Recherche
     </a>,
-    located at the heart of
-    <a href="https://ens-paris-saclay.fr/en/"
-       target="_blank"
-       rel="noopener">
-      ENS Paris-Saclay
-    </a>,
-    is a 160-seat professional theatre dedicated to bringing together the
+    located at the heart of ENS Paris-Saclay, is a 160-seat professional theatre dedicated to bringing together the
     arts, science, and technology. Its programme encompasses theatre, dance,
     circus, new magic, and other forms of performance, alongside
     research-creation residencies, workshops, and cultural outreach activities.
