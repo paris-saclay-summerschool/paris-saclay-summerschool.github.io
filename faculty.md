@@ -34,7 +34,7 @@ hero_image: /assets/images/academic-team-hero.jpg
     </div>
 
     <div class="person-affiliation">
-      ENS Paris-Saclay · Centre for Economics at Paris-Saclay
+      ENS Paris-Saclay, Centre for Economics at Paris-Saclay
     </div>
 
   </div>
@@ -55,23 +55,21 @@ hero_image: /assets/images/academic-team-hero.jpg
     <div class="person-info">
 
       <h3>
-        <a href="#">
-          First Name Last Name
-        </a>
+<a href="https://sites.google.com/view/ugobolletta/">Ugo Boletta</a>
       </h3>
 
       <div class="person-title">
-        Professor of Economics
+        Associate Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        Université Paris-Saclay, RITM, & Centre for Economics at Paris-Saclay
       </div>
 
       <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
-          Economics of Climate Change
+          EGreat Gatsby Curve: facts and Implications
         </span>
       </div>
 
@@ -87,22 +85,22 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="#">Stefano Bosi</a></h3>
 
       <div class="person-title">
         Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        Unviersité d’Evry Paris-Saclay, Centre for Economics at Paris-Saclay
       </div>
 
-      <div class="faculty-course">
+    <!--  <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
           Environmental Economics
         </span>
-      </div>
+      </div> -->
 
     </div>
   </div>
@@ -116,14 +114,14 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="https://matthieucrozet.weebly.com/">Matthieu Crozet</a></h3>
 
       <div class="person-title">
         Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        Université Paris-Saclay, RITM, & Centre for Economics at Paris-Saclay
       </div>
 
     </div>
@@ -138,22 +136,22 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="https://www.michaelgreinecker.com/">Michael Greinecker</a></h3>
 
       <div class="person-title">
-        Associate Professor of Economics
+        Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        ENS Paris-Saclay, Centre for Economics at Paris-Saclay
       </div>
 
-      <div class="faculty-course">
+      <!-- <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
           Sustainable Finance
         </span>
-      </div>
+      </div> -->
 
     </div>
   </div>
@@ -167,20 +165,20 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="https://sites.google.com/site/jpcdhericourt/">Jérôme Héricourt</a></h3>
 
       <div class="person-title">
         Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        Unviersité d’Evry Paris-Saclay, Centre for Economics at Paris-Saclay
       </div>
 
       <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
-          Development and the Environment
+          How Inequality Destabilize the (Macro)economy
         </span>
       </div>
 
@@ -196,14 +194,14 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="https://samuelligonniere.com/">Samuel Ligonniere</a></h3>
 
       <div class="person-title">
-        Professor of Economics
+        Associate Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        Unviersité d’Evry Paris-Saclay, Centre for Economics at Paris-Saclay
       </div>
 
     </div>
@@ -218,20 +216,20 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="#"><a href="https://sites.google.com/site/martinetvincent/">Vincent Martinet</a></h3>
 
       <div class="person-title">
-        Professor of Economics
+        Senior Research Scientist (Directeur de Recherche)
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        Paris-Saclay Applied Economics – INRAE, & Centre for Economics at Paris-Saclay
       </div>
 
       <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
-          Artificial Intelligence and Sustainability
+          Sustainable Development and Intergenerational Equity
         </span>
       </div>
 
@@ -247,20 +245,91 @@ hero_image: /assets/images/academic-team-hero.jpg
 
     <div class="person-info">
 
-      <h3><a href="#">First Name Last Name</a></h3>
+      <h3><a href="sites.google.com/view/morganpatty/accueil">Morgan Patty</a></h3>
 
       <div class="person-title">
-        Associate Professor of Economics
+        Assistant Professor of Economics
       </div>
 
       <div class="person-affiliation">
-        University / Institution
+        ENS Paris-Saclay, Centre for Economics at Paris-Saclay
       </div>
 
+    </div>
+  </div>
+
+
+  <div class="person-card">
+
+    <img src="/assets/images/people/person-8.jpg"
+         alt="First Name Last Name"
+         class="person-photo">
+
+    <div class="person-info">
+
+      <h3><a href="https://sites.google.com/view/natacharaffin">Natacha Raffin</a></h3>
+
+      <div class="person-title">
+        Professor of Economics
+      </div>
+
+      <div class="person-affiliation">
+        ENS Paris-Saclay, Centre for Economics at Paris-Saclay
+      </div>
       <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
-          Energy and Environmental Policy
+          Environment-Fertility Nexus
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+  
+  <div class="person-card">
+
+    <img src="/assets/images/people/person-8.jpg"
+         alt="First Name Last Name"
+         class="person-photo">
+
+    <div class="person-info">
+
+      <h3><a href="[https://sites.google.com/view/natacharaffin](https://www.ceps-paris-saclay.fr/people/person/187)">Thomas Vendryes</a></h3>
+
+      <div class="person-title">
+       Associate Professor of Economics
+      </div>
+
+      <div class="person-affiliation">
+        ENS Paris-Saclay, Centre for Economics at Paris-Saclay
+      </div>
+
+    </div>
+  </div>
+
+  
+  <div class="person-card">
+
+    <img src="/assets/images/people/person-8.jpg"
+         alt="First Name Last Name"
+         class="person-photo">
+
+    <div class="person-info">
+
+      <h3><a href="https://sites.google.com/view/natalia-zugravu-soilita/home">Natalia Zugravu</a></h3>
+
+      <div class="person-title">
+        Professor of Economics
+      </div>
+
+      <div class="person-affiliation">
+        University of Versailles Saint-Quentin-en-Yvelines, SOURCE, & Centre for Economics at Paris-Saclay
+      </div>
+      <div class="faculty-course">
+        <span class="faculty-label">Faculty</span>
+        <span class="course-title">
+          Trade, FDI and Pollution
         </span>
       </div>
 
