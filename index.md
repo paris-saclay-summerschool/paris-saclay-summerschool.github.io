@@ -37,4 +37,39 @@ Information on applications, selection, fees, and registration will be available
 
 <h2 id="keynotes">Keynote Speakers</h2>
 
+<div class="commitment-box">
+
+  <h2>Commitment to Sustainability, Equity, and Inclusion</h2>
+
+  <p>
+    The organizers aim to make the Summer School an enriching and
+    intellectually challenging experience for all participants.
+  </p>
+
+  <p>
+    <strong>Sustainability.</strong>
+    We strongly encourage participants to use trains, public transport,
+    and other sustainable transportation options whenever possible.
+  </p>
+
+  <p>
+    <strong>Equity and inclusion.</strong>
+    We are committed to providing a harassment-free and inclusive environment.
+    Everyone, regardless of gender, gender identity or expression, age,
+    sexual orientation, disability, physical appearance, ethnicity, religion,
+    or status, should feel welcome and comfortable at all times, both during
+    the Summer School and associated social events.
+  </p>
+
+  <p>
+    If you encounter any issue, please do not hesitate to contact the
+    ENS Paris-Saclay equality representative, Claire Lambard,
+    <em>chargée de mission égalité</em>, at
+    <a href="mailto:mission.egalite@ens-paris-saclay.fr">
+      mission.egalite [at] ens-paris-saclay.fr
+    </a>.
+  </p>
+
+</div>
+
 <p>To be announced.</p>
