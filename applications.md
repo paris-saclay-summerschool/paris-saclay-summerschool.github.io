@@ -17,12 +17,11 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p>
   Applications are open to master students, PhD students and early-stage researchers with the academic background required to follow
-  advanced graduate-level courses in economics. Applicants who have recently completed a relevant undergraduate degree may also be considered where their academic background is appropriate.
+  advanced graduate-level courses in economics. Applicants who have recently completed a relevant undergraduate degree may also be considered where their academic background is appropriate (prerequisites in microeconomics and econometrics are requried).
 </p>
 
 <p>
-  All courses are taught entirely in <strong>English</strong>. Participants
-  are therefore expected to have a good command of English.
+  All courses are taught entirely in <strong>English</strong>. Participants are therefore expected to have a good command of English.
 </p>
 
 <!-- <h2>Prerequisites</h2>
@@ -93,17 +92,14 @@ hero_image: /assets/images/applications-hero.jpg
 </p> -->
 
 <p>
-  Successful applicants will receive a link to complete their online
-  registration. Where a participation fee applies, registration is confirmed
-  upon receipt of full payment.
-</p>
+  Successful applicants will be notified by January 31, 2027.</p>
 
 <p>
-  Accepted applicants must complete their registration by
-  <strong>March 01, 2027</strong>. Places not confirmed by the deadline may be
+  Accepted applicants must complete here their registration by
+  <strong>March 01, 2027</strong>.  Where a participation fee applies, registration is confirmed
+  upon receipt of full payment. Places not confirmed by the deadline may be
   offered to applicants on the waiting list.
 </p>
-
 
 <h2>Participation Fees</h2>
 
