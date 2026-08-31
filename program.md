@@ -5,6 +5,7 @@ permalink: /program/
 home_hero: true
 hero_title: "Course Program"
 hero_image: /assets/images/course-program-hero.jpg
+hero_class: "hero-course-program"
 ---
 
 <h1>Course Program</h1>
