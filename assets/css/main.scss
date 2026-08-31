@@ -7,7 +7,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* ==========================================================================
+/* =================================.person-photo=========================================
    Paris-Saclay Summer School — custom styles
    ========================================================================== */
 
@@ -615,9 +615,9 @@
 }
 
 .person-photo {
-  width: 125px;
-  height: 125px;
-  flex: 0 0 125px;
+  width: 135px;
+  height: 135px;
+  flex: 0 0 135px;
   object-fit: cover;
   border-radius: 6px;
 }
