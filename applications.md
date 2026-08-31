@@ -9,20 +9,28 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p class="applications-intro">
   Participation in the Paris-Saclay Summer School in Economics is subject
-  to application and selection. Applications are open to students and
+  to application and selection. Applications are open to master students, PhD students and
   early-stage researchers with the academic background required to follow
   advanced graduate-level courses in economics.
 </p>
 
 
-<h2>Eligibility</h2>
+<p>
+  Applicants who have recently completed a relevant undergraduate degree
+  may also be considered where their academic background is appropriate.
+</p>
 
 <p>
-  The Summer School is primarily intended for <strong>PhD students and
-  advanced Master's students in economics and related disciplines</strong>.
-  Applicants should have a strong academic background in economics or a
-  related field and sufficient training in <strong>microeconomics and
-  econometrics</strong> to follow advanced graduate-level courses.
+  All courses are taught entirely in <strong>English</strong>. Participants
+  are therefore expected to have a good command of English.
+</p>
+
+<!-- <h2>Prerequisites</h2>
+
+<p>
+  Applicants should have an academic background in economics or a
+  related field and sufficient training in microeconomics and
+  econometrics to follow advanced graduate-level courses.
 </p>
 
 <p>
@@ -32,8 +40,8 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p>
   All courses are taught entirely in <strong>English</strong>. Participants
-  are therefore expected to have a good command of written and spoken English.
-</p>
+  are therefore expected to have a good command of English.
+</p> -->
 
 
 <h2>Application</h2>
@@ -44,14 +52,13 @@ hero_image: /assets/images/applications-hero.jpg
 </p>
 
 <ul>
-  <li>a curriculum vitae;</li>
-  <li>a short statement explaining their motivation for attending the Summer School;</li>
-  <li>proof of current academic status or their most recent degree;</li>
-  <li>their accommodation preference, where applicable;</li>
-  <li>
+  <li>a curriculum vitae.</li>
+  <li>a short statement explaining their motivation for attending the Summer School.</li>
+  <li>proof of current academic status and their most recent degree.</li>
+  <li>their accommodation preference, where applicable.</li>
+  <!-- <li>
     optionally, the title and abstract of a paper or research project
-    they would like to present during the Summer School.
-  </li>
+    they would like to present during the Summer School -->
 </ul>
 
 <p class="application-action">
@@ -61,7 +68,7 @@ hero_image: /assets/images/applications-hero.jpg
 </p>
 
 
-<h2>Research Presentations</h2>
+<!-- <h2>Research Presentations</h2>
 
 <p>
   Participants are encouraged to present and discuss their ongoing research
@@ -74,16 +81,16 @@ hero_image: /assets/images/applications-hero.jpg
   Applicants wishing to present should submit a <strong>title and short
   abstract</strong> with their application. Research presentations are
   optional and do not affect eligibility to attend the Summer School.
-</p>
+</p> -->
 
 
 <h2>Selection &amp; Registration</h2>
 
-<p>
+<!-- <p>
   Applications will be reviewed by the Academic Coordinator and Scientific
   Committee. Applicants will be notified of the outcome by
   <strong>[date]</strong>.
-</p>
+</p> -->
 
 <p>
   Successful applicants will receive a link to complete their online
@@ -93,7 +100,7 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p>
   Accepted applicants must complete their registration by
-  <strong>[date]</strong>. Places not confirmed by the deadline may be
+  <strong>March 01, 2027</strong>. Places not confirmed by the deadline may be
   offered to applicants on the waiting list.
 </p>
 
