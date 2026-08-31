@@ -22,8 +22,9 @@ hero_image: /assets/images/hero-2027.jpg
 </p>
 
 <p>
-The Summer School welcomes PhD students and advanced Master's students in economics and related disciplines, from Paris-Saclay, other French universities, and institutions abroad. Participants will also have the opportunity to <strong>present and discuss their own research</strong>, by submitting a paper or research project with their application. By bringing participants and faculty together for an intensive week outside the regular academic semester, the program aims not only to provide access to research at the frontier of the field, but also to foster sustained intellectual exchange across institutions and disciplines.
+The Summer School welcomes PhD students and advanced Master's students in economics and related disciplines, from Paris-Saclay, other French universities, and institutions abroad. By bringing participants and faculty together for an intensive week outside the regular academic semester, the program aims not only to provide access to research at the frontier of the field, but also to foster sustained intellectual exchange across institutions and disciplines.
 </p>
+<!-- Participants will also have the opportunity to <strong>present and discuss their own research</strong>, by submitting a paper or research project with their application. -->
 
 <h2 id="applications">Applications &amp; Registration</h2>
 
