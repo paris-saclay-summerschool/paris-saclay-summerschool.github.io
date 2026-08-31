@@ -102,7 +102,7 @@ hero_image: /assets/images/applications-hero.jpg
     </thead>
     <tbody>
       <tr>
-        <td>Université Paris-Saclay students</td>
+        <td>Students of the Université Paris-Saclay</td>
         <td><strong>Free</strong></td>
       </tr>
       <tr>
@@ -117,7 +117,7 @@ hero_image: /assets/images/applications-hero.jpg
   </table>
 </div>
 
-<p> *The accommodation package additionally includes housing <strong>on the campus, from July 4 to July 11, 2027.</strong>.
+<p> *The accommodation package additionally includes housing <strong>on the campus, from July 4 to July 11, 2027</strong>.
 </p>
 
 <p class="fees-note">
