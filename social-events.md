@@ -8,8 +8,7 @@ hero_image: /assets/images/social-events-hero.jpg
 ---
 
 <p class="social-intro">
-  The Summer School also offers several opportunities for participants,
-  faculty, and invited speakers to meet and interact outside the classroom.
+  The Summer School also offers several opportunities for participants, faculty, and keynotes speakers to meet, exchange ideas and interact outside the classroom.
 </p>
 
 <div class="social-events-list">
@@ -18,8 +17,8 @@ hero_image: /assets/images/social-events-hero.jpg
     <div class="social-event__meta">Monday, July 5</div>
     <h2>Welcome Breakfast</h2>
     <p>
-      A welcome breakfast will be offered on the first morning of the
-      Summer School at ENS Paris-Saclay.
+      A welcome breakfast will be offered on the first morning of the Summer School in the garden of ENS Paris-Saclay, and in case of bad weather condition in the Espace Gilbert Simondon (first floor, building south-west).
+
     </p>
   </section>
 
@@ -27,9 +26,7 @@ hero_image: /assets/images/social-events-hero.jpg
     <div class="social-event__meta">Monday–Friday</div>
     <h2>Daily Lunches</h2>
     <p>
-      Lunches will be provided each day, offering participants and faculty
-      an informal opportunity to meet, exchange ideas, and continue
-      discussions beyond the classroom.
+      Lunches and afternoon coffee-breaks will be provided each day, offering participants, faculty and keynote speakers, an informal opportunity to continue discussions beyond the classroom. They will be served either in garden or the Espace Gilbert Simondon (first floor, building south-west).
     </p>
   </section>
 
@@ -47,12 +44,12 @@ hero_image: /assets/images/social-events-hero.jpg
   </section>
 
   <section class="social-event">
-    <div class="social-event__meta">Final evening</div>
+    <div class="social-event__meta">Saturday evening</div>
     <h2>Farewell Reception</h2>
     <p>
       A farewell reception will be held at ENS Paris-Saclay on the final
       evening of the Summer School, bringing participants, faculty, and
-      invited speakers together to close the week.
+      keynote speakers together to close the week.
     </p>
   </section>
 
