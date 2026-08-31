@@ -1167,3 +1167,10 @@ a.hero-btn--secondary:focus {
   color: #00778B !important;
   text-decoration: none !important;
 }
+
+.section-button--inline {
+  margin-left: 0.45rem;
+  padding: 0.35rem 0.7rem;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
