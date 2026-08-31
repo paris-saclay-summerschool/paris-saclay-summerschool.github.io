@@ -43,7 +43,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
     </a>
 
     <a class="hero-btn hero-btn--primary application-apply" href="#">
-      Apply now
+      Application → (opens later)
     </a>
   </span>
 </p>
