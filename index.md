@@ -37,6 +37,81 @@ Information on applications, selection, fees, and registration will be available
 
 <h2 id="keynotes">Keynote Speakers</h2>
 
+<h2 id="keynotes">Keynote Speakers</h2>
+
+<div class="keynote-grid">
+
+  <div class="keynote-card">
+    <img src="/assets/images/keynotes/keynote-1.jpg"
+         alt="First Name Last Name"
+         class="keynote-photo">
+
+    <div class="keynote-info">
+      <h3>
+        <a href="#" target="_blank" rel="noopener">
+          First Name Last Name
+        </a>
+      </h3>
+
+      <div class="keynote-title">
+        Professor of Economics
+      </div>
+
+      <div class="keynote-affiliation">
+        University / Institution
+      </div>
+
+      <div class="keynote-label">
+        Keynote Speaker
+      </div>
+
+      <!-- Optional, once the title is known -->
+      <!--
+      <div class="keynote-talk">
+        <strong>Keynote:</strong>
+        <em>Title of the keynote lecture</em>
+      </div>
+      -->
+    </div>
+  </div>
+
+
+  <div class="keynote-card">
+    <img src="/assets/images/keynotes/keynote-2.jpg"
+         alt="First Name Last Name"
+         class="keynote-photo">
+
+    <div class="keynote-info">
+      <h3>
+        <a href="#" target="_blank" rel="noopener">
+          First Name Last Name
+        </a>
+      </h3>
+
+      <div class="keynote-title">
+        Professor of Computer Science
+      </div>
+
+      <div class="keynote-affiliation">
+        University / Institution
+      </div>
+
+      <div class="keynote-label">
+        Keynote Speaker
+      </div>
+
+      <!-- Optional -->
+      <!--
+      <div class="keynote-talk">
+        <strong>Keynote:</strong>
+        <em>Title of the keynote lecture</em>
+      </div>
+      -->
+    </div>
+  </div>
+
+</div>
+
 <div class="commitment-box">
 
   <h2>Commitment to Sustainability, Equity, and Inclusion</h2>
@@ -71,5 +146,3 @@ Information on applications, selection, fees, and registration will be available
   </p>
 
 </div>
-
-<p>To be announced.</p>
