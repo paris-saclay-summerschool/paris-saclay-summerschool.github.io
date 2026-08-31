@@ -36,13 +36,12 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 <p>
   Successful applicants will be invited to complete their registration
   online. Participation is confirmed upon completion of registration and,
-  where applicable, payment of the participation fee.
-</p>
-
-<p>
-  <a class="text-link" href="/applications/">
+  where applicable, payment of the participation fee. 
+  <div class="section-action">
+  <a class="section-button" href="/applications/">
     Applications &amp; Fees →
   </a>
+</div>
 </p>
 
 <div class="important-dates" id="dates">
