@@ -95,14 +95,14 @@ Information on applications, selection, fees, and registration will be available
       </div>
 
       <div class="keynote-label">
-        Keynote Speaker
+        Keynote Lecture
       </div>
 
       <!-- Optional -->
-      <!--
+  
       <div class="keynote-talk">
         <strong>Keynote:</strong>
-        <em>Title of the keynote lecture</em>
+        <em>tba</em>
       </div>
       -->
     </div>
