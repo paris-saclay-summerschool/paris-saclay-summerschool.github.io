@@ -7,16 +7,39 @@ hero_overview: true
 hero_image: /assets/images/hero-2027.jpg
 ---
 
-<h2 id="about">About the Summer School</h2>
+<-- <h2 id="about">About the Summer School</h2> -->
 
 <p>
-The Paris-Saclay Summer School in Economics is organized by the Centre for Economics at Paris-Saclay (CEPS).
+  The <strong>Paris-Saclay Summer School in Economics</strong> is an annual
+  initiative of the
+  <a class="text-link" href="URL-DU-CEPS" target="_blank" rel="noopener">
+    Centre for Economics at Paris-Saclay (CEPS)
+  </a>,
+  designed to bring together students and researchers around emerging areas
+  of economic research.
 </p>
 
 <p>
-The 2027 edition focuses on <strong>Sustainable Development</strong>.
+  The 2027 edition focuses on <strong>Sustainable Development</strong>,
+  including perspectives on its interactions with
+  <strong>Artificial Intelligence</strong>. Over six days, participants
+  will explore recent research and methodological advances through
+  <a class="text-link" href="/program/">six advanced courses</a>
+  taught by leading scholars, complemented by
+  <a class="text-link" href="#keynotes">two keynote lectures</a>.
 </p>
 
+<p>
+  The Summer School welcomes <strong>PhD students and advanced Master's
+  students in economics and related disciplines</strong>, from Paris-Saclay,
+  other French universities, and institutions abroad. Participants will also
+  have the opportunity to <strong>present and discuss their own research</strong>,
+  by submitting a paper or research project with their application. By bringing
+  participants and faculty together for an intensive week outside the regular
+  academic semester, the program aims not only to provide access to research
+  at the frontier of the field, but also to foster sustained intellectual
+  exchange across institutions and disciplines.
+</p>
 <h2 id="applications">Applications &amp; Registration</h2>
 
 <p>
