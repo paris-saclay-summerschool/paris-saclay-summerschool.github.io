@@ -43,7 +43,6 @@
   color: #222;
   white-space: nowrap;
 }
-
 .greedy-nav .visible-links {
   display: flex;
   align-items: center;
@@ -59,16 +58,17 @@
   padding-left: 0.55rem;
   padding-right: 0.55rem;
   font-size: 0.82rem;
+  font-weight: 500;
   color: #222;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: color 0.15s ease;
 }
 
-.greedy-nav .visible-links a:hover,
+/*.greedy-nav .visible-links a:hover,
 .greedy-nav .visible-links a:focus {
   color: #00778B;
   text-decoration: none;
-}
+}* */
 
 .greedy-nav .visible-links .active a,
 .greedy-nav .visible-links a.active {
@@ -81,16 +81,40 @@
   color: #00778B;
 }
 
-/* Remove Minimal Mistakes underline effect */
+/* No Minimal Mistakes underline */
 .greedy-nav .visible-links a::before {
   display: none;
 }
 
-/* Teal on hover */
+/* Hover only */
 .greedy-nav .visible-links a:hover {
   color: #00778B;
-  text-decoration: none;
+  text-decoration: none !important;
 }
+
+/* Current page */
+.greedy-nav .visible-links a.active,
+.greedy-nav .visible-links a.active:hover {
+  color: #00778B;
+  text-decoration: none !important;
+}
+
+/* Do not keep the previously clicked tab teal */
+.greedy-nav .visible-links a:focus:not(.active) {
+  color: #222;
+  text-decoration: none !important;
+}
+
+/* Remove Minimal Mistakes underline effect 
+.greedy-nav .visible-links a::before {
+  display: none;
+}*/
+
+/* Teal on hover */
+/*.greedy-nav .visible-links a:hover {
+  color: #00778B;
+  text-decoration: none;
+}*/
 
 /* Slightly cleaner masthead */
 .masthead {
