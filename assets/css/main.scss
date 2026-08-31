@@ -628,17 +628,17 @@
 
 /* Taille des photos */
 .person-photo {
-  width: 135px;
-  height: 135px;
-  flex: 0 0 135px;
+  width: 155px;
+  height: 535px;
+  flex: 0 0 155px;
   object-fit: cover;
   border-radius: 6px;
 }
 
 .person-photo--director {
-  width: 135px;
-  height: 135px;
-  flex-basis: 135px;
+  width: 155px;
+  height: 155px;
+  flex-basis: 155px;
 }
 
 .person-info {
