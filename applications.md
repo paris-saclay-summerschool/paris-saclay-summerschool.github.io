@@ -8,16 +8,16 @@ hero_image: /assets/images/applications-hero.jpg
 ---
 
 <p class="applications-intro">
-  Participation in the Paris-Saclay Summer School in Economics is subject
+  <!-- Participation in the Paris-Saclay Summer School in Economics is subject
   to application and selection. Applications are open to master students, PhD students and
   early-stage researchers with the academic background required to follow
-  advanced graduate-level courses in economics.
-</p>
+  advanced graduate-level courses in economics. 
+</p> -->
 
 
 <p>
-  Applicants who have recently completed a relevant undergraduate degree
-  may also be considered where their academic background is appropriate.
+  Applications are open to master students, PhD students and early-stage researchers with the academic background required to follow
+  advanced graduate-level courses in economics. Applicants who have recently completed a relevant undergraduate degree may also be considered where their academic background is appropriate.
 </p>
 
 <p>
