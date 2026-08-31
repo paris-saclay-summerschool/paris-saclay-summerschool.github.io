@@ -951,3 +951,13 @@ a.hero-btn--secondary:focus {
 .social-event--featured {
   background: #fff1df;
 }
+.social-event a {
+  color: #00778B;
+  text-decoration: none !important;
+}
+
+.social-event a:hover,
+.social-event a:focus {
+  color: #005f70;
+  text-decoration: none !important;
+}
