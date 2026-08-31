@@ -1,9 +1,9 @@
 ---
-layout: summer-school-page
-title: "Applications & Fees"
+layout: summer-school-page-toc
+title: "Information & Fees"
 permalink: /applications/
 home_hero: true
-hero_title: "Applications & Fees"
+hero_title: "Information & Fees"
 hero_image: /assets/images/applications-hero.jpg
 ---
 
