@@ -755,6 +755,8 @@
   margin: 1.6rem 0 2.6rem;
 }
 
+/* Boutton Scheule en turquoise
+
 .program-button {
   display: inline-block;
   padding: 0.7rem 1.05rem;
@@ -771,8 +773,28 @@
   background: #006577;
   color: #fff !important;
   text-decoration: none !important;
+} */
+
+/* Boutton Scheule en turquoise */
+
+.program-button {
+  display: inline-block;
+  padding: 0.7rem 1.05rem;
+  border-radius: 8px;
+  background: #fff1df;
+  color: #5a4633 !important;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: background 0.15s ease;
 }
 
+.program-button:hover,
+.program-button:focus {
+  background: #f9e2c5;
+  color: #00778B !important;
+  text-decoration: none !important;
+}
 
 /* Course accordions */
 
