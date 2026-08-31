@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{% if page.home_hero %}
+  <div class="summer-hero-wrap">
+    {% include home-hero.html %}
+  </div>
+{% endif %}
+
+<div class="internal-page-grid">
+
+  <article class="internal-page-content"
+           itemscope
+           itemtype="https://schema.org/CreativeWork">
+
+    <div class="page__content" itemprop="text">
+      {{ content }}
+    </div>
+
+  </article>
+
+  <aside class="internal-page-toc">
+    <nav class="dse-toc" aria-label="On this page">
+
+      <div class="dse-toc__title">
+        <span class="toc-icon">☷</span>
+        On this page
+      </div>
+
+      <ul>
+        <li><a href="#application">Application</a></li>
+        <li><a href="#selection-registration">Selection &amp; Registration</a></li>
+        <li><a href="#participation-fees">Participation Fees</a></li>
+        <li><a href="#certificate-ects">Certificate of Attendance &amp; ECTS</a></li>
+        <li><a href="#venue">Venue</a></li>
+      </ul>
+
+    </nav>
+  </aside>
+
+</div>
