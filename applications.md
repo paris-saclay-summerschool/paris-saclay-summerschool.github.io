@@ -121,7 +121,7 @@ hero_image: /assets/images/applications-hero.jpg
         <td><strong>€900</strong></td>
       </tr>
       <tr>
-        <td>External participants — with accommodation</td>
+        <td>External participants — with accommodation*</td>
         <td><strong>€2,000</strong></td>
       </tr>
     </tbody>
@@ -130,14 +130,29 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p>
   Participation fees include all courses, lunches, coffee breaks, and
-  Summer School social events. The accommodation package additionally
-  includes <strong>[accommodation details]</strong>.
+  Summer School social events.<br>
+  *The accommodation package additionally
+  includes housing <strong>on the campus, from July 4 to July 11, 2027.</strong>.
 </p>
 
 <p class="fees-note">
   Fee eligibility is subject to proof of status, such as a certificate
   of enrolment or valid student card.
 </p>
+
+<h2>Certificate of Attendance &amp; ECTS</h2>
+
+<p>
+  Participants who complete the Summer School will receive a
+  certificate of attendanc indicating the courses
+  attended and the corresponding number of teaching hours.
+</p>
+
+<p> Participants interested by ECTS credits should
+  check with their home institution whether the certificate of attendance
+  and teaching hours may be recognized toward their degree.
+</p>
+
 
 
 <h2>Questions</h2>
