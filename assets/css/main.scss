@@ -1093,3 +1093,50 @@ a.hero-btn--secondary:focus {
   color: #005f70;
   text-decoration: none !important;
 }
+
+
+/* ==========================================================================
+   Applications & Fees
+   ========================================================================== */
+
+.applications-intro {
+  max-width: 850px;
+  margin-bottom: 2rem;
+}
+
+.application-action {
+  margin: 1.5rem 0 2.3rem;
+}
+
+.fees-table-wrap {
+  margin: 1.2rem 0 1.3rem;
+  overflow-x: auto;
+}
+
+.fees-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+.fees-table th,
+.fees-table td {
+  padding: 0.8rem 1rem;
+  border: 1px solid #e2e2e2;
+  text-align: left;
+}
+
+.fees-table th {
+  background: #f2f2f2;
+  color: #444;
+  font-weight: 600;
+}
+
+.fees-table td:last-child {
+  width: 180px;
+}
+
+.fees-note {
+  color: #666;
+  font-size: 0.76rem;
+}
