@@ -365,10 +365,19 @@
   text-decoration: none;
 }
 
-.hero-btn--primary {
+a.hero-btn--primary {
   background: #00778B;
   border-color: #00778B;
-  color: #fff;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+a.hero-btn--primary:hover,
+a.hero-btn--primary:focus {
+  background: #006577;
+  border-color: #006577;
+  color: #fff !important;
+  text-decoration: none !important;
 }
 
 .hero-btn--secondary {
