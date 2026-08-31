@@ -1174,3 +1174,16 @@ a.hero-btn--secondary:focus {
   vertical-align: baseline;
   white-space: nowrap;
 }
+
+.application-summary__actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-left: 0.45rem;
+  white-space: nowrap;
+}
+
+.application-apply {
+  padding: 0.35rem 0.7rem;
+  vertical-align: baseline;
+}
