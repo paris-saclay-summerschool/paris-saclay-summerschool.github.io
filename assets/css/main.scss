@@ -1127,6 +1127,19 @@ a.hero-btn--secondary:focus {
   white-space: nowrap;
 }
 
+.fees-table th:nth-child(2),
+.fees-table td:nth-child(2) {
+  text-align: center !important;
+  width: 220px;
+  min-width: 220px;
+  white-space: nowrap;
+}
+
+/* .fees-table th:first-child,
+.fees-table td:first-child {
+  text-align: left;
+} */
+
 /* .fees-table th,
 .fees-table td {
   padding: 0.8rem 1rem;
