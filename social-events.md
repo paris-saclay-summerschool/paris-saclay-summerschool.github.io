@@ -8,7 +8,8 @@ hero_image: /assets/images/social-events-hero.jpg
 ---
 
 <p class="social-intro">
-  The Summer School also offers several opportunities for participants, faculty, and keynotes speakers to meet, exchange ideas and interact outside the classroom.
+  The Summer School also offers several opportunities for participants, faculty, and keynote speakers to meet and exchange ideas outside the classroom, fostering sustained interaction and a lively intellectual community throughout the week.
+  <!-- The Summer School also offers several opportunities for participants, faculty, and keynotes speakers to meet, exchange ideas and interact outside the classroom. -->
 </p>
 
 <div class="social-events-list">
