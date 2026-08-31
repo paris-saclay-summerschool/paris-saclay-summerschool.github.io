@@ -59,7 +59,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
     <li><strong>Applications open:</strong> November 15, 2026</li>
     <li><strong>Application deadline:</strong> January 15, 2027</li>
     <li><strong>Notification of acceptance:</strong> January 31, 2027</li>
-    <li><strong>Registration deadline:</strong> Marc 01, 2027</li>
+    <li><strong>Registration deadline:</strong> March 01, 2027</li>
     <li><strong>Summer School:</strong> July 5–10, 2027</li>
   </ul>
 </div>
