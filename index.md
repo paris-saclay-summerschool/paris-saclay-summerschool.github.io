@@ -116,7 +116,7 @@ Information on applications, selection, fees, and registration will be available
 
 </div>
 
-<div class="commitment-box">
+<div class="commitment-box" id="commitment">
 
   <h2>Commitment to Sustainability, Equity, and Inclusion</h2>
 
