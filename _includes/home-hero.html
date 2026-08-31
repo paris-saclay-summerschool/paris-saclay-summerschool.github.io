@@ -1,58 +1,68 @@
-<div class="summer-hero">
+<div class="summer-hero"
+     {% if page.hero_image %}
+       style="background-image: url('{{ page.hero_image }}');"
+     {% endif %}>
+
   <div class="summer-hero__overlay"></div>
 
   <div class="summer-hero__content">
-    <h1>Paris-Saclay Summer School in Economics</h1>
 
-   <!-- <div class="summer-hero__theme">
-      Sustainable Development
-    </div> -->
-    <div class="summer-hero__theme">
-  <span class="summer-hero__theme-main">Sustainable Development</span>
-  <span class="summer-hero__theme-separator">·</span>
-  <span class="summer-hero__theme-ai">including perspectives on Artificial Intelligence</span>
-</div>
+    <h1>
+      {{ page.hero_title | default: "Paris-Saclay Summer School in Economics" }}
+    </h1>
 
-<div class="summer-hero__organizer">
-  Centre for Economics at Paris-Saclay
-</div>
+    {% if page.hero_overview %}
 
-<div class="summer-hero__date">
-  July 5–10, 2027
-</div>
-    
+      <div class="summer-hero__theme">
+        <span class="summer-hero__theme-main">
+          Sustainable Development
+        </span>
+
+        <span class="summer-hero__theme-separator">·</span>
+
+        <span class="summer-hero__theme-ai">
+          including perspectives on Artificial Intelligence
+        </span>
+      </div>
+
+    {% else %}
+
+      <div class="summer-hero__theme">
+        <span class="summer-hero__theme-main">
+          Paris-Saclay Summer School in Economics
+        </span>
+      </div>
+
+    {% endif %}
+
+    <div class="summer-hero__organizer">
+      Centre for Economics at Paris-Saclay
+    </div>
+
+    <div class="summer-hero__date">
+      July 5–10, 2027
+    </div>
+
     <div class="summer-hero__actions">
+
       <a class="hero-btn hero-btn--secondary" href="#">
         Download flyer
       </a>
 
-      <a class="hero-btn hero-btn--primary" href="#">
+      <a class="hero-btn hero-btn--primary" href="/applications/">
         Apply now
       </a>
 
       <span class="hero-btn hero-btn--inactive">
         Registration opens later
       </span>
+
     </div>
+
   </div>
 
   <div class="summer-hero__credit">
     Photo: Michel Denancé (RPWB)
   </div>
-</div>
 
-{% if page.hero_overview %}
-  <div class="summer-hero__theme">
-    <span class="summer-hero__theme-main">Sustainable Development</span>
-    <span class="summer-hero__theme-separator">·</span>
-    <span class="summer-hero__theme-ai">
-      including perspectives on Artificial Intelligence
-    </span>
-  </div>
-{% else %}
-  <div class="summer-hero__theme">
-    <span class="summer-hero__theme-main">
-      Paris-Saclay Summer School in Economics
-    </span>
-  </div>
-{% endif %}
+</div>
