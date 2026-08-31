@@ -97,17 +97,16 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p>
   Accepted applicants must complete their registration by
-  <strong>March 1, 2027</strong>.
-
-  <a class="hero-btn hero-btn--primary application-apply"
-     href="#">
-    Register →
-  </a>
-
-  Where a participation fee applies, registration is confirmed upon
-  receipt of full payment. Places not confirmed by the deadline may be
-  offered to applicants on the waiting list.
+  <strong>March 1, 2027</strong>. Where a participation fee applies,
+  registration is confirmed upon receipt of full payment. Places not confirmed
+  by the deadline may be offered to applicants on the waiting list.
 </p>
+
+<div class="application-action application-action--center">
+  <a class="hero-btn hero-btn--primary" href="#">
+    Register → (open later)
+  </a>
+</div>
 
 <h2>Participation Fees</h2>
 
@@ -167,5 +166,9 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p> Courses, keynote lectures, and all Summer School activities will take
   place on the ENS Paris-Saclay campus.
+  <div class="venue-map">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.6307990624123!2d2.1649724999999997!3d48.71253730000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67124d0aa37cb%3A0x9fa50097ff8f105a!2sENS%20Paris-Saclay!5e0!3m2!1sen!2sde!4v1788192933300!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </p>
+
+</div>
+  
