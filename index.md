@@ -37,8 +37,6 @@ Information on applications, selection, fees, and registration will be available
 
 <h2 id="keynotes">Keynote Speakers</h2>
 
-<h2 id="keynotes">Keynote Speakers</h2>
-
 <div class="keynote-grid">
 
   <div class="keynote-card">
@@ -48,17 +46,17 @@ Information on applications, selection, fees, and registration will be available
 
     <div class="keynote-info">
       <h3>
-        <a href="#" target="_blank" rel="noopener">
-          First Name Last Name
+        <a href="[#](https://www.worldbank.org/en/about/people/c/carolyn-fischer)" target="_blank" rel="noopener">
+          Carolyn Fischer
         </a>
       </h3>
 
       <div class="keynote-title">
-        Professor of Economics
+        Lead Economist
       </div>
 
       <div class="keynote-affiliation">
-        University / Institution
+        UWorld Bank
       </div>
 
       <div class="keynote-label">
@@ -66,12 +64,12 @@ Information on applications, selection, fees, and registration will be available
       </div>
 
       <!-- Optional, once the title is known -->
-      <!--
+  
       <div class="keynote-talk">
         <strong>Keynote:</strong>
-        <em>Title of the keynote lecture</em>
+        <em>Lecture: Carbon Leakage in Environmental Policy Instrument Design</em>
       </div>
-      -->
+      
     </div>
   </div>
 
