@@ -742,3 +742,107 @@
   width: 100%;
   min-width: 0;
 }
+
+/* ==========================================================================
+   Course Program
+   ========================================================================== */
+
+.program-intro {
+  max-width: 820px;
+}
+
+.program-actions {
+  margin: 1.6rem 0 2.6rem;
+}
+
+.program-button {
+  display: inline-block;
+  padding: 0.7rem 1.05rem;
+  border-radius: 6px;
+  background: #00778B;
+  color: #fff !important;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.program-button:hover,
+.program-button:focus {
+  background: #006577;
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+
+/* Course accordions */
+
+.course-list {
+  margin-top: 1.2rem;
+}
+
+.course-item {
+  margin-bottom: 0.75rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 8px;
+  background: #fff;
+  overflow: hidden;
+}
+
+.course-item summary {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.9rem 1.1rem;
+  background: #f3f3f3;
+  color: #333;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+.course-item summary::-webkit-details-marker {
+  display: none;
+}
+
+.course-item summary:hover {
+  color: #00778B;
+}
+
+.course-toggle::before {
+  content: "+";
+  display: block;
+  color: #666;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.course-item[open] .course-toggle::before {
+  content: "−";
+}
+
+.course-content {
+  padding: 1rem 1.15rem 1.2rem;
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.course-professor {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+  color: #555;
+}
+
+.course-professor a {
+  color: #222;
+  text-decoration: none !important;
+}
+
+.course-professor a:hover,
+.course-professor a:focus {
+  color: #00778B;
+  text-decoration: none !important;
+}
