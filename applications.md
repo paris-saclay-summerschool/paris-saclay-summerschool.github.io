@@ -62,51 +62,33 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p class="application-action">
   <a class="hero-btn hero-btn--primary" href="#">
-    Apply now
+    Applications → (opens later)
   </a>
 </p>
 
 
-<!-- <h2>Research Presentations</h2>
-
-<p>
-  Participants are encouraged to present and discuss their ongoing research
-  during the Summer School. These sessions provide an opportunity to receive
-  feedback from faculty and fellow participants and to exchange ideas in an
-  informal academic setting.
-</p>
-
-<p>
-  Applicants wishing to present should submit a <strong>title and short
-  abstract</strong> with their application. Research presentations are
-  optional and do not affect eligibility to attend the Summer School.
-</p> -->
-
-
 <h2>Selection &amp; Registration</h2>
-
-<!-- <p>
-  Applications will be reviewed by the Academic Coordinator and Scientific
-  Committee. Applicants will be notified of the outcome by
-  <strong>[date]</strong>.
-</p> -->
 
 <p>
   Successful applicants will be notified by January 31, 2027.</p>
-
 
 <p>
   Accepted applicants must complete their registration by
   <strong>March 1, 2027</strong>. Where a participation fee applies,
   registration is confirmed upon receipt of full payment. Places not confirmed
   by the deadline may be offered to applicants on the waiting list.
+  <p class="application-action">
+  <a class="hero-btn hero-btn--primary" href="#">
+    Registration → (opens later)
+  </a>
 </p>
 
+<!-- Autre type de bouton! 
 <div class="application-action application-action--center">
   <a class="hero-btn hero-btn--primary" href="#">
-    Register → (open later)
+    Registration → (opens later)
   </a>
-</div>
+</div> -->
 
 <h2>Participation Fees</h2>
 
