@@ -43,6 +43,7 @@
   color: #222;
   white-space: nowrap;
 }
+
 .greedy-nav .visible-links {
   display: flex;
   align-items: center;
@@ -64,45 +65,36 @@
   transition: color 0.15s ease;
 }
 
-/*.greedy-nav .visible-links a:hover,
-.greedy-nav .visible-links a:focus {
-  color: #00778B;
-  text-decoration: none;
-}* */
-
-.greedy-nav .visible-links .active a,
-.greedy-nav .visible-links a.active {
-  color: #00778B;
-}
-
-.greedy-nav .visible-links a.active,
-.greedy-nav .visible-links a.active:hover,
-.greedy-nav .visible-links a.active:focus {
-  color: #00778B;
-}
-
-/* No Minimal Mistakes underline */
 .greedy-nav .visible-links a::before {
   display: none;
 }
 
-/* Hover only */
+/* Hover */
 .greedy-nav .visible-links a:hover {
   color: #00778B;
   text-decoration: none !important;
 }
 
-/* Current page */
+/* Current page only */
 .greedy-nav .visible-links a.active,
 .greedy-nav .visible-links a.active:hover {
   color: #00778B;
   text-decoration: none !important;
 }
 
-/* Do not keep the previously clicked tab teal */
+/* Keyboard focus must not imitate the active page */
 .greedy-nav .visible-links a:focus:not(.active) {
   color: #222;
   text-decoration: none !important;
+}
+
+/* Masthead */
+.masthead {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.greedy-nav {
+  background: #fff;
 }
 
 /* Remove Minimal Mistakes underline effect 
@@ -115,20 +107,6 @@
   color: #00778B;
   text-decoration: none;
 }*/
-
-/* Slightly cleaner masthead */
-.masthead {
-  border-bottom: 1px solid #e8e8e8;
-}
-
-.greedy-nav {
-  background: #fff;
-}
-
-/* More breathing room */
-.greedy-nav .visible-links li {
-  margin-left: 0.45rem;
-}
 
 /* ==========================================================================
    Summer School sidebar
@@ -547,12 +525,17 @@ a.hero-btn--secondary:focus {
 }
 
 .dse-toc a {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+/* .dse-toc a {
   display: block;
   padding: 0.3rem 0.75rem;
   color: #555;
   line-height: 1.3;
   text-decoration: none;
-}
+} */
 
 .dse-toc a:hover,
 .dse-toc a:focus {
