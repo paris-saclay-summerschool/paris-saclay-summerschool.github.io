@@ -27,14 +27,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
 <h2 id="applications">Applications &amp; Registration</h2>
 
-<p>
-  The Summer School welcomes <strong>PhD students and advanced Master's
-  students in economics and related disciplines</strong>. Applications are
-  subject to selection by the Academic Coordinator and Scientific Committee.
-</p>
-
-<p>
-  Applicants are invited to submit a CV, a short statement of motivation,
+<p> Applications are subject to selection by the Scientific Committee. Applicants are invited to submit a CV, a short statement of motivation,
   and proof of their current academic status. They may also submit the
   <strong>title and abstract of a research paper or project</strong> they
   would like to present and discuss during the Summer School.
