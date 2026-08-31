@@ -1140,3 +1140,30 @@ a.hero-btn--secondary:focus {
   color: #666;
   font-size: 0.76rem;
 }
+
+
+/* Section navigation button */
+
+.section-action {
+  margin-top: 1.3rem;
+  margin-bottom: 2rem;
+}
+
+.section-button {
+  display: inline-block;
+  padding: 0.65rem 1rem;
+  background: #fff1df;
+  border-radius: 8px;
+  color: #5a4633 !important;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.section-button:hover,
+.section-button:focus {
+  background: #f9e2c5;
+  color: #00778B !important;
+  text-decoration: none !important;
+}
