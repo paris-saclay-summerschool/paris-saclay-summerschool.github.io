@@ -94,10 +94,18 @@ hero_image: /assets/images/applications-hero.jpg
 <p>
   Successful applicants will be notified by January 31, 2027.</p>
 
+
 <p>
-  Accepted applicants must complete here their registration by
-  <strong>March 01, 2027</strong>.  Where a participation fee applies, registration is confirmed
-  upon receipt of full payment. Places not confirmed by the deadline may be
+  Accepted applicants must complete their registration by
+  <strong>March 1, 2027</strong>.
+
+  <a class="hero-btn hero-btn--primary application-apply"
+     href="#">
+    Register →
+  </a>
+
+  Where a participation fee applies, registration is confirmed upon
+  receipt of full payment. Places not confirmed by the deadline may be
   offered to applicants on the waiting list.
 </p>
 
