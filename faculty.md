@@ -258,6 +258,33 @@ hero_image: /assets/images/academic-team-hero.jpg
     </div>
   </div>
 
+<div class="person-card">
+
+    <img src="/assets/images/people/person-8.jpg"
+         alt="First Name Last Name"
+         class="person-photo">
+
+    <div class="person-info">
+
+      <h3> <a href="https://xiangyuqu.weebly.com/">Xiangyu Qu</a></h3>
+
+      <div class="person-title">
+        Research Scientist (chargé de recherche)
+      </div>
+
+      <div class="person-affiliation">
+        CNRS, Université Paris 1, & Centre for Economics at Paris-Saclay
+      </div>
+      <div class="faculty-course">
+        <span class="faculty-label">Faculty</span>
+        <span class="course-title">
+          Course: Algorithmic Fairness and Welfare Theory
+        </span>
+      </div>
+
+    </div>
+  </div>
+
 
   <div class="person-card">
 
@@ -279,7 +306,7 @@ hero_image: /assets/images/academic-team-hero.jpg
       <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
-          Environment-Fertility Nexus
+          Course: Environment-Fertility Nexus
         </span>
       </div>
 
@@ -329,7 +356,7 @@ hero_image: /assets/images/academic-team-hero.jpg
       <div class="faculty-course">
         <span class="faculty-label">Faculty</span>
         <span class="course-title">
-          Trade, FDI and Pollution
+          Course: Trade, FDI and Pollution
         </span>
       </div>
 
