@@ -11,9 +11,15 @@ hero_class: "hero-course-program"
 <!-- <h1>Course Program</h1> -->
 
 <p class="program-intro">
-  The 2027 program approaches Sustainable Development from a broad economic perspective, bringing together recent and frontier research on how environmental change, inequality, intergenerational equity, international integration, and new technologies interact with economic behavior and public policy.<br>
+  The 2027 program approaches Sustainable Development from a broad economic perspective, exploring frontier research on how environmental change, inequality, intergenerational equity, international integration, and new technologies interact with economic behavior and public policy.<br><br>
+
+Six advanced courses combine theoretical and empirical approaches, covering topics from population and environmental dynamics, inequality and social mobility, and intergenerational equity to trade and pollution and the welfare implications of algorithmic decision-making.<br><br>
+
+The courses introduce participants to questions and methods at the frontier of each field, including some only beginning to enter standard graduate curricula, and provide the tools to engage critically with ongoing research.
+
+<!-- The 2027 program approaches Sustainable Development from a broad economic perspective, bringing together recent and frontier research on how environmental change, inequality, intergenerational equity, international integration, and new technologies interact with economic behavior and public policy.<br>
   The program consists of six advanced courses, each focusing on a specific area of current research. Together, they combine theoretical and empirical approaches and expose participants to questions ranging from population and environmental dynamics, inequality and social mobility, and intergenerational equity to trade and pollution and the welfare implications of algorithmic decision-making.<br>
-  Courses are designed to introduce participants to research at the frontier of each field, including questions and methods that are only beginning to enter standard graduate curricula, while providing them with the tools needed to engage critically with ongoing research.
+  Courses are designed to introduce participants to research at the frontier of each field, including questions and methods that are only beginning to enter standard graduate curricula, while providing them with the tools needed to engage critically with ongoing research. -->
 </p>
 
 <div class="program-actions">
