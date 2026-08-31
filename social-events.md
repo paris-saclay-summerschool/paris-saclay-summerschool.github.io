@@ -74,7 +74,7 @@ hero_image: /assets/images/social-events-hero.jpg
 </section>
 
   <section class="social-event">
-    <div class="social-event__meta">Saturday evening</div>
+    <div class="social-event__meta">Saturday, July 10</div>
     <h2>Farewell Reception</h2>
     <p>
       A farewell reception will be held at ENS Paris-Saclay on the final
