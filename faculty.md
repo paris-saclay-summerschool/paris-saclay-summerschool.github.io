@@ -319,7 +319,7 @@ hero_image: /assets/images/academic-team-hero.jpg
       </h3>
 
       <div class="person-title">
-        Research Scientist (Chargé de recherche)
+        Senior Research Scientist (Chargé de recherche)
       </div>
 
       <div class="person-affiliation">
