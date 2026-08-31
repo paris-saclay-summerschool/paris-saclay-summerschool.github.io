@@ -1,15 +1,21 @@
 main:
   - title: "Overview"
     url: /
+
   - title: "Course Program"
     url: /program/
-  - title: "Social Events"
-    url: /social-events/
+
   - title: "Academic Team"
-  url: /faculty/
-  - title: "Practical Information"
-    url: /practical-information/
+    url: /faculty/
+
   - title: "Applications"
     url: /applications/
+
   - title: "Registration"
-    url: /registration/  
+    url: /registration/
+
+  - title: "Practical Information"
+    url: /practical-information/
+
+  - title: "Social Events"
+    url: /social-events/
