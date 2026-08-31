@@ -1204,3 +1204,20 @@ a.hero-btn--secondary:focus {
     white-space: normal;
   }
 }
+
+.application-action--center {
+  text-align: center;
+}
+
+.venue-map {
+  width: 100%;
+  margin-top: 1.2rem;
+}
+
+.venue-map iframe {
+  display: block;
+  width: 100%;
+  height: 420px;
+  border: 0;
+  border-radius: 8px;
+}
