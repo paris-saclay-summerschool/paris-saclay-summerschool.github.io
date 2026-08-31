@@ -1011,7 +1011,7 @@ a.hero-btn--secondary:focus {
 
 .keynote-photo {
   display: block;
-  width: 100%;
+  width: 90%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
   object-position: center;
@@ -1045,7 +1045,7 @@ a.hero-btn--secondary:focus {
 .keynote-affiliation {
   font-size: 0.78rem;
   line-height: 1.35;
-  color: #777;
+  color: #444; /*#777;*/
 }
 
 .keynote-label {
