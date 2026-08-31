@@ -8,7 +8,7 @@ hero_image: /assets/images/course-program-hero.jpg
 hero_class: "hero-course-program"
 ---
 
-<h1>Course Program</h1>
+<!-- <h1>Course Program</h1> -->
 
 <p class="program-intro">
   The 2027 program approaches Sustainable Development from a broad economic perspective, bringing together recent and frontier research on how environmental change, inequality, intergenerational equity, international integration, and new technologies interact with economic behavior and public policy.<br>
