@@ -396,7 +396,7 @@ hero_image: /assets/images/academic-team-hero.jpg
       </div>
 
       <div class="person-affiliation">
-        Université Paris-Est Créteil · ERUIDTE · Centre for Economics at Paris-Saclay
+        Université Paris-Est Créteil · ERUDITE · Centre for Economics at Paris-Saclay
       </div>
 
 
