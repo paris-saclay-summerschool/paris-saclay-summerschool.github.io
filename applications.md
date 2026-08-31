@@ -62,7 +62,7 @@ hero_image: /assets/images/applications-hero.jpg
 
 <p class="application-action">
   <a class="hero-btn hero-btn--primary" href="#">
-    Applications → (opens later)
+    Application → (opens later)
   </a>
 </p>
 
