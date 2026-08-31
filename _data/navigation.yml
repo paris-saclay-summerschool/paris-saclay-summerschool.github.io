@@ -8,14 +8,13 @@ main:
   - title: "Academic Team"
     url: /faculty/
 
+  - title: "Social Events"
+    url: /social-events/
+
   - title: "Applications & Fees"
     url: /applications/
     
-  - title: "Registration"
-    url: /registration/
-
   - title: "Practical Information"
     url: /practical-information/
 
-  - title: "Social Events"
-    url: /social-events/
+  
