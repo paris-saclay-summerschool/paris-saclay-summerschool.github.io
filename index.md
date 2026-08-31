@@ -27,17 +27,11 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
 <h2 id="applications">Applications &amp; Registration</h2>
 
+<!-- They may also submit the <strong>title and abstract of a research paper or project</strong> they would like to present and discuss during the Summer School. -->
 <p> Applications are subject to selection by the Scientific Committee. Applicants are invited to submit a CV, a short statement of motivation,
-  and proof of their current academic status. They may also submit the
-  <strong>title and abstract of a research paper or project</strong> they
-  would like to present and discuss during the Summer School.
-</p>
-
-<p>
-  Successful applicants will be invited to complete their registration
+  and proof of their current student status. Successful applicants will be invited to complete their registration
   online. Participation is confirmed upon completion of registration and,
-  where applicable, payment of the participation fee. 
-  <div class="section-action">
+  where applicable, payment of the participation fee. <div class="section-action">
   <a class="section-button" href="/applications/">
     Applications &amp; Fees →
   </a>
