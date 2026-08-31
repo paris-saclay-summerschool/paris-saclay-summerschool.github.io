@@ -56,7 +56,7 @@ Information on applications, selection, fees, and registration will be available
       </div>
 
       <div class="keynote-affiliation">
-        UWorld Bank
+        World Bank
       </div>
 
       <div class="keynote-label">
@@ -66,7 +66,6 @@ Information on applications, selection, fees, and registration will be available
       <!-- Optional, once the title is known -->
   
       <div class="keynote-talk">
-        <strong>Keynote:</strong>
         <em>Carbon Leakage in Environmental Policy Instrument Design</em>
       </div>
       
@@ -101,10 +100,9 @@ Information on applications, selection, fees, and registration will be available
       <!-- Optional -->
   
       <div class="keynote-talk">
-        <strong>Keynote:</strong>
         <em>tba</em>
       </div>
-      -->
+      
     </div>
   </div>
 
