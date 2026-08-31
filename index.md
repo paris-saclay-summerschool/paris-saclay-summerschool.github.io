@@ -60,14 +60,14 @@ Information on applications, selection, fees, and registration will be available
       </div>
 
       <div class="keynote-label">
-        Keynote Speaker
+        Keynote Lecture
       </div>
 
       <!-- Optional, once the title is known -->
   
       <div class="keynote-talk">
         <strong>Keynote:</strong>
-        <em>Lecture: Carbon Leakage in Environmental Policy Instrument Design</em>
+        <em>Carbon Leakage in Environmental Policy Instrument Design</em>
       </div>
       
     </div>
