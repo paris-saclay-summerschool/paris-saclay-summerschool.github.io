@@ -25,6 +25,7 @@ hero_image: /assets/images/applications-hero.jpg
 </p>
 
 <!-- <h2>Prerequisites</h2>
+<h2 id="rrerequisites">Prerequisites</h2>
 
 <p>
   Applicants should have an academic background in economics or a
@@ -42,8 +43,7 @@ hero_image: /assets/images/applications-hero.jpg
   are therefore expected to have a good command of English.
 </p> -->
 
-
-<h2>Application</h2>
+<h2 id="application">Application</h2>
 
 <p>
   Applications must be submitted through the online application form.
@@ -67,7 +67,7 @@ hero_image: /assets/images/applications-hero.jpg
 </p>
 
 
-<h2>Selection &amp; Registration</h2>
+<h2 id="selection-registration">Selection &amp; Registration</h2>
 
 <p>
   Successful applicants will be notified by January 31, 2027.</p>
@@ -90,7 +90,7 @@ hero_image: /assets/images/applications-hero.jpg
   </a>
 </div> -->
 
-<h2>Participation Fees</h2>
+<h2 id="participation-fees">Participation Fees</h2>
 
 <div class="fees-table-wrap">
   <table class="fees-table">
@@ -124,7 +124,7 @@ hero_image: /assets/images/applications-hero.jpg
   Fee eligibility is subject to proof of status, such as a certificate of enrolment or valid student card. Participation fees include all courses, lunches, coffee breaks, and Summer School social events.
 </p>
 
-<h2>Certificate of Attendance &amp; ECTS</h2>
+<h2 id="certificate-ects">Certificate of Attendance &amp; ECTS</h2>
 
 <p>
   Participants who complete the Summer School will receive a
@@ -137,7 +137,7 @@ hero_image: /assets/images/applications-hero.jpg
   and teaching hours may be recognized toward their degree.
 </p>
 
-<h2>Venue</h2>
+<h2 id="venue">Venue</h2>
 
 <p>
   <strong>ENS Paris-Saclay</strong><br>
