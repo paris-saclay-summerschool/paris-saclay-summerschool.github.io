@@ -3,6 +3,8 @@ layout: summer-school-page
 title: "Course Program"
 permalink: /program/
 home_hero: true
+hero_title: "Course Program"
+hero_image: /assets/images/course-program-hero.jpg
 ---
 
 <h1>Course Program</h1>
