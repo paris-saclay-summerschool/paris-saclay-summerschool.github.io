@@ -35,10 +35,10 @@ Information on applications, selection, fees, and registration will be available
   <h2>Important Dates</h2>
 
   <ul>
-    <li><strong>Applications open:</strong> To be announced</li>
-    <li><strong>Application deadline:</strong> To be announced</li>
-    <li><strong>Notification of acceptance:</strong> To be announced</li>
-    <li><strong>Registration deadline:</strong> To be announced</li>
+    <li><strong>Applications open:</strong> November 15, 2026</li>
+    <li><strong>Application deadline:</strong> January 15, 2027</li>
+    <li><strong>Notification of acceptance:</strong> January 31, 2027</li>
+    <li><strong>Registration deadline:</strong> Marc 01, 2027</li>
     <li><strong>Summer School:</strong> July 5–10, 2027</li>
   </ul>
 </div>
