@@ -23,7 +23,7 @@ hero_image: /assets/images/social-events-hero.jpg
   </section>
 
   <section class="social-event">
-    <div class="social-event__meta">Monday–Friday</div>
+    <div class="social-event__meta">Monday–Saturday</div>
     <h2>Daily Lunches & Coffee-Breaks</h2>
     <p>
       Lunches and afternoon coffee-breaks will be provided each day, offering participants, faculty and keynote speakers, an informal opportunity to continue discussions beyond the classroom. They will be served either in garden or the Espace Gilbert Simondon (first floor, building south-west).
