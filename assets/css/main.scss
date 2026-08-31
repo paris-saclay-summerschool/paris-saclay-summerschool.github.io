@@ -962,6 +962,37 @@ a.hero-btn--secondary:focus {
   text-decoration: none !important;
 }
 
+/* ==========================================================================
+   Sustainability, Equity & Inclusion
+   ========================================================================== */
+
+.commitment-box {
+  margin: 2.5rem 0 1rem;
+  padding: 1.5rem 1.7rem;
+  background: #fff1df;
+  border-radius: 8px;
+}
+
+.commitment-box h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.commitment-box p:last-child {
+  margin-bottom: 0;
+}
+
+.commitment-box a {
+  color: #00778B;
+  text-decoration: none !important;
+}
+
+.commitment-box a:hover,
+.commitment-box a:focus {
+  color: #005f70;
+  text-decoration: none !important;
+}
+
 /*.hero-course-program {
   min-height: 20px;
   background-position: center center;
