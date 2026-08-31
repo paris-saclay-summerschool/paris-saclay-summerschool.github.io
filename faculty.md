@@ -3,16 +3,15 @@ layout: summer-school-page
 title: "Academic Team"
 permalink: /faculty/
 home_hero: true
+hero_title: "Academic Team"
+hero_image: /assets/images/academic-team-hero.jpg
 ---
 
-<h1>Academic Team</h1>
+<!-- <h1>Academic Team</h1> -->
 
 <p class="people-intro">
-  The scientific program of the Paris-Saclay Summer School in Economics
-  is developed by its Academic Coordinator and Scientific Committee.
-  Instructors are drawn from the Scientific Committee.
+  The scientific program of the Paris-Saclay Summer School in Economics is developed by its Academic Coordinator and Scientific Committee. Professors are drawn from the Scientific Committee.
 </p>
-
 
 <h2>Academic Coordinator</h2>
 
