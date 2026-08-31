@@ -11,15 +11,9 @@ hero_class: "hero-course-program"
 <h1>Course Program</h1>
 
 <p class="program-intro">
-  The 2027 Paris-Saclay Summer School in Economics offers a series of
-  advanced courses on sustainable development, including perspectives
-  on its interactions with Artificial Intelligence.
-</p>
-
-<p>
-  Courses combine theoretical foundations, empirical perspectives,
-  and policy applications, and are taught by members of the Summer
-  School's academic team.
+  The 2027 program approaches Sustainable Development from a broad economic perspective, bringing together recent and frontier research on how environmental change, inequality, intergenerational equity, international integration, and new technologies interact with economic behavior and public policy.<br>
+  The program consists of six advanced courses, each focusing on a specific area of current research. Together, they combine theoretical and empirical approaches and expose participants to questions ranging from population and environmental dynamics, inequality and social mobility, and intergenerational equity to trade and pollution and the welfare implications of algorithmic decision-making.<br>
+  Courses are designed to introduce participants to research at the frontier of each field, including questions and methods that are only beginning to enter standard graduate curricula, while providing them with the tools needed to engage critically with ongoing research.
 </p>
 
 <div class="program-actions">
