@@ -75,17 +75,27 @@
   text-decoration: none !important;
 }
 
-/* Current page only */
-.greedy-nav .visible-links a.active,
-.greedy-nav .visible-links a.active:hover {
-  color: #00778B;
+.greedy-nav .visible-links a {
+  margin: 0;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #222 !important;
   text-decoration: none !important;
+  transition: color 0.15s ease;
 }
 
-/* Keyboard focus must not imitate the active page */
-.greedy-nav .visible-links a:focus:not(.active) {
-  color: #222;
-  text-decoration: none !important;
+.greedy-nav .visible-links a::before {
+  display: none;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #00778B !important;
+}
+
+.greedy-nav .visible-links a[aria-current="page"] {
+  color: #00778B !important;
 }
 
 /* Masthead */
@@ -524,23 +534,25 @@ a.hero-btn--secondary:focus {
   margin: 0;
 }
 
-.dse-toc a {
+.dse-toc a,
+.dse-toc a:visited {
+  display: block;
+  padding: 0.3rem 0.75rem;
+  color: #555 !important;
+  line-height: 1.3;
+  text-decoration: none !important;
   white-space: normal;
   overflow-wrap: break-word;
 }
 
-/* .dse-toc a {
-  display: block;
-  padding: 0.3rem 0.75rem;
-  color: #555;
-  line-height: 1.3;
-  text-decoration: none;
-} */
-
 .dse-toc a:hover,
 .dse-toc a:focus {
-  color: #00778B;
-  text-decoration: none;
+  color: #00778B !important;
+  text-decoration: none !important;
+}
+
+.dse-toc a {
+  white-space: nowrap;
 }
 
 /* @media (max-width: 63.99em) {
