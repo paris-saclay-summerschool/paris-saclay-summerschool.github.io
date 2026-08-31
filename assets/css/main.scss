@@ -993,6 +993,83 @@ a.hero-btn--secondary:focus {
   text-decoration: none !important;
 }
 
+/* ==========================================================================
+   Keynote Speakers
+   ========================================================================== */
+
+.keynote-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+  margin-top: 1.2rem;
+  margin-bottom: 2.5rem;
+}
+
+.keynote-card {
+  min-width: 0;
+}
+
+.keynote-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 8px;
+  margin-bottom: 0.9rem;
+}
+
+.keynote-info h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+
+.keynote-info h3 a {
+  color: #222;
+  text-decoration: none !important;
+}
+
+.keynote-info h3 a:hover,
+.keynote-info h3 a:focus {
+  color: #00778B;
+  text-decoration: none !important;
+}
+
+.keynote-title {
+  margin-bottom: 0.1rem;
+  font-size: 0.8rem;
+  color: #444;
+}
+
+.keynote-affiliation {
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: #777;
+}
+
+.keynote-label {
+  margin-top: 0.65rem;
+  color: #00778B;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.keynote-talk {
+  margin-top: 0.55rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: #444;
+}
+
+@media (max-width: 700px) {
+  .keynote-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /*.hero-course-program {
   min-height: 20px;
   background-position: center center;
