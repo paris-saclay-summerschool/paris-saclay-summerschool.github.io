@@ -43,7 +43,7 @@ The courses introduce participants to questions and methods at the frontier of e
       <p class="course-professor">
         Professor:
         <a href="https://xiangyuqu.weebly.com/">Xiangyu Qu</a><br>
-        CNRS, Université Paris 1, & Centre for Economics at Paris-Saclay
+        CNRS · Université Paris 1 · Centre for Economics at Paris-Saclay
       </p>
 
       <p>
@@ -62,7 +62,7 @@ The courses introduce participants to questions and methods at the frontier of e
       <p class="course-professor">
         Professor:
         <a href="https://sites.google.com/view/natacharaffin">Natacha Raffin</a><br>
-        ENS Paris-Saclay, Centre for Economics at Paris-Saclay
+        ENS Paris-Saclay · Centre for Economics at Paris-Saclay
       </p>
 
       <p>
@@ -93,7 +93,7 @@ choices of households, acting as an additional determinant beyond the usual ones
       <p class="course-professor">
         Professor:
         <a href="[https://sites.google.com/view/natacharaffin](https://sites.google.com/view/ugobolletta/)">Ugo Boletta</a><br>
-        Unviersité Paris-Saclay, RITM, & Centre for Economics at Paris-Saclay
+        Unviersité Paris-Saclay · RITM · Centre for Economics at Paris-Saclay
       </p>
 
       <p>
@@ -112,7 +112,7 @@ choices of households, acting as an additional determinant beyond the usual ones
       <p class="course-professor">
         Professor:
         <a href="https://sites.google.com/site/jpcdhericourt/">Jérôme Héricourt</a><br>
-        Unviersité d’Evry Paris-Saclay, Centre for Economics at Paris-Saclay
+        Unviersité d’Evry Paris-Saclay · Centre for Economics at Paris-Saclay
       </p>
 
       <p>
@@ -132,7 +132,7 @@ choices of households, acting as an additional determinant beyond the usual ones
       <p class="course-professor">
         Professor:
         <a href="https://sites.google.com/site/martinetvincent/">Vincent Martinet</a><br>
-        Paris-Saclay Applied Economics – INRAE, & Centre for Economics at Paris-Saclay
+        Paris-Saclay Applied Economics – INRAE · Centre for Economics at Paris-Saclay
       </p>
 
       <p>
@@ -151,7 +151,7 @@ choices of households, acting as an additional determinant beyond the usual ones
       <p class="course-professor">
         Professor:
         <a href="https://sites.google.com/view/natalia-zugravu-soilita/home">Natalia Zugravu</a><br>
-        University of Versailles Saint-Quentin-en-Yvelines, SOURCE, & Centre for Economics at Paris-Saclay
+        University of Versailles Saint-Quentin-en-Yvelines · SOURCE · Centre for Economics at Paris-Saclay
       </p>
 
       <p>
@@ -166,5 +166,5 @@ choices of households, acting as an additional determinant beyond the usual ones
 <h2 id="course-schedule">Course Schedule</h2>
 
 <p>
-  The detailed timetable will be available in February.
+  The detailed timetable will be available by February.
 </p>
