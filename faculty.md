@@ -373,6 +373,36 @@ hero_image: /assets/images/academic-team-hero.jpg
   </div>
 
 
+
+  <!-- Maria Sanin-->
+
+  <div class="person-card">
+
+    <img src="/assets/images/people/person-10.jpg"
+         alt="Maria Eugenia Sanin"
+         class="person-photo">
+
+    <div class="person-info">
+
+      <h3>
+        <a href="https://sites.google.com/site/meugeniasanin"
+           target="_blank" rel="noopener">
+          María Eugenia Sanin
+        </a>
+      </h3>
+
+      <div class="person-title">
+        Professor of Economics
+      </div>
+
+      <div class="person-affiliation">
+        Université Paris-Est Créteil · ERUIDTE · Centre for Economics at Paris-Saclay
+      </div>
+
+
+    </div>
+  </div>
+
   <!-- Thomas Vendryes -->
 
   <div class="person-card">
