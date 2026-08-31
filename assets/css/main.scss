@@ -1243,7 +1243,7 @@ a.hero-btn--secondary:focus {
 
   .internal-page-grid {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 260px;
+    grid-template-columns: minmax(0, 1fr) 300px;
     column-gap: 2.5rem;
     max-width: 1200px;
     margin: 0 auto;
@@ -1251,6 +1251,10 @@ a.hero-btn--secondary:focus {
     align-items: start;
   }
 
+   .dse-toc a {
+  white-space: nowrap;
+}
+   
   .internal-page-content,
   .internal-page-toc {
     min-width: 0;
@@ -1260,11 +1264,6 @@ a.hero-btn--secondary:focus {
 .internal-page-toc .dse-toc {
   position: sticky;
   top: 5rem;
-}
-
-.toc-icon {
-  margin-right: 0.3rem;
-  color: #666;
 }
 
 @media (max-width: 63.99em) {
