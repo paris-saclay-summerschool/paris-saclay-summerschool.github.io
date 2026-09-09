@@ -70,23 +70,23 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 <div class="keynote-grid">
 
   <div class="keynote-card">
-    <img src="/assets/images/keynotes/keynote-1.jpg"
-         alt="First Name Last Name"
+    <img src="/assets/images/keynotes/keynote-0.jpg"
+         alt="Photo"
          class="keynote-photo">
 
     <div class="keynote-info">
       <h3>
-        <a href="[#](https://www.worldbank.org/en/about/people/c/carolyn-fischer)" target="_blank" rel="noopener">
-          Carolyn Fischer
-        </a>
+        <a href="#" target="_blank" rel="noopener">
+          First Name Last Name
+          </a>
       </h3>
 
       <div class="keynote-title">
-        Lead Economist
+        Prof of Economics
       </div>
 
       <div class="keynote-affiliation">
-        World Bank
+        University / Institution
       </div>
 
       <div class="keynote-label">
@@ -96,7 +96,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
       <!-- Optional, once the title is known -->
   
       <div class="keynote-talk">
-        <em>Carbon Leakage in Environmental Policy Instrument Design</em>
+        <em>tba</em>
       </div>
       
     </div>
@@ -105,7 +105,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
   <div class="keynote-card">
     <img src="/assets/images/keynotes/keynote-2.jpg"
-         alt="First Name Last Name"
+         alt="Photo"
          class="keynote-photo">
 
     <div class="keynote-info">
