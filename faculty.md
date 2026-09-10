@@ -53,7 +53,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-1.jpg"
+    <img src="/assets/images/people/ugo-boletta.jpg"
          alt="Ugo Boletta"
          class="person-photo">
 
@@ -436,7 +436,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-11.jpg"
+    <img src="/assets/images/people/thomas-vendryes.jpg"
          alt="Thomas Vendryes"
          class="person-photo">
 
