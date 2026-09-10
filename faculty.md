@@ -206,6 +206,35 @@ hero_image: /assets/images/academic-team-hero.jpg
     </div>
   </div>
 
+<!-- Eleni Iliopulos -->
+
+ <div class="person-card">
+
+    <img src="/assets/images/people/person-21.jpg"
+         alt="Eleni Iliopulos"
+         class="person-photo">
+
+    <div class="person-info">
+
+      <h3>
+        <a href="http://eleni.iliopulos.free.fr/"
+           target="_blank" rel="noopener">
+          Eleni Iliopulos
+        </a>
+      </h3>
+
+      <div class="person-title">
+        Professor of Economics
+      </div>
+
+      <div class="person-affiliation">
+        Université d’Évry Paris-Saclay · Centre for Economics at Paris-Saclay
+      </div>
+
+
+    </div>
+  </div>
+
 
   <!-- Samuel Ligonnière -->
 
