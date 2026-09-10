@@ -175,7 +175,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-5.jpg"
+    <img src="/assets/images/people/jerome-hericourt.jpg"
          alt="Jérôme Héricourt"
          class="person-photo">
 
@@ -240,7 +240,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-6.jpg"
+    <img src="/assets/images/people/samuel-ligonniere.jpg"
          alt="Samuel Ligonnière"
          class="person-photo">
 
@@ -269,7 +269,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-7.jpg"
+    <img src="/assets/images/people/vincent-martinet.jpg"
          alt="Vincent Martinet"
          class="person-photo">
 
@@ -407,7 +407,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-10.jpg"
+    <img src="/assets/images/people/maria-sanin.jpg"
          alt="Maria Eugenia Sanin"
          class="person-photo">
 
