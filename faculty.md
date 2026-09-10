@@ -334,7 +334,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-9.jpg"
+    <img src="/assets/images/people/xiangyu-qu.jpg"
          alt="Xiangyu Qu"
          class="person-photo">
 
