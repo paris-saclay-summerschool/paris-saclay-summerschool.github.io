@@ -28,12 +28,13 @@
             {% assign link_url = link.url | relative_url %}
 
             <li class="masthead__menu-item">
- <a
+  <a
   href="{{ link_url }}"
-  {% if page.url == link.url %}aria-current="page"{% endif %}
-  {% if link.description %} title="{{ link.description }}"{% endif %}
-  {% if link.target %} target="{{ link.target }}"{% endif %}
->             
+  {% assign current_url = page.url | replace: 'index.html', '' %}
+  {% if current_url == link.url %}aria-current="page"{% endif %}
+  {% if link.description %}title="{{ link.description }}"{% endif %}
+  {% if link.target %}target="{{ link.target }}"{% endif %}
+>
   {{ link.title }}
 </a>
               
