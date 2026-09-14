@@ -17,7 +17,7 @@ hero_image: /assets/images/hero-2027.jpg
 </p>
 
 <p>
-  The 2027 edition focuses on <em>Sustainable Development</em>, including perspectives on its interactions with <em>Artificial Intelligence</em>. Over six days, participants will explore recent research and methodological advances through <a class="text-link" href="/program/">six advanced courses</a>
+  The 2027 edition focuses on <em>Sustainable Development & Inequalities</em>, bringing together frontier research on their economic, social, and environmental dimensions. Over six days, participants will explore recent research and methodological advances through <a class="text-link" href="/program/">six advanced courses</a>
   taught by leading scholars, complemented by <a class="text-link" href="#keynotes">two keynote lectures</a>.
 </p>
 
