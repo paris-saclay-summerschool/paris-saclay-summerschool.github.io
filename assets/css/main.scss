@@ -36,6 +36,7 @@
    Main navigation
    ========================================================================== */
 
+
 .greedy-nav .site-title {
   font-weight: 500;
   font-size: 1rem;
@@ -44,7 +45,7 @@
   white-space: nowrap;
 }
 
-.greedy-nav .visible-links {
+/*.greedy-nav .visible-links {
   display: flex;
   align-items: center;
   gap: 0;
@@ -71,6 +72,37 @@
 
 .greedy-nav .visible-links a[aria-current="page"] {
   color: #00778B !important;
+}*/
+
+.greedy-nav {
+  background: #fff;
+}
+
+
+.greedy-nav .visible-links a,
+.greedy-nav .visible-links a:visited {
+  margin: 0;
+  padding-left: 0.55rem;
+  padding-right: 0.55rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #222 !important;
+  text-decoration: none !important;
+  transition: color 0.15s ease;
+}
+
+.greedy-nav .visible-links a::before {
+  display: none;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #00778B !important;
+}
+
+.greedy-nav .visible-links a[aria-current="page"],
+.greedy-nav .visible-links a[aria-current="page"]:visited,
+.greedy-nav .visible-links a[aria-current="page"]:hover {
+  color: #00778B !important;
 }
 
 /* Masthead */
@@ -78,9 +110,6 @@
   border-bottom: 1px solid #e8e8e8;
 }
 
-.greedy-nav {
-  background: #fff;
-}
 
 /* Remove Minimal Mistakes underline effect 
 .greedy-nav .visible-links a::before {
