@@ -465,7 +465,7 @@ hero_image: /assets/images/academic-team-hero.jpg
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-12.jpg"
+    <img src="/assets/images/people/natalia-zugravu.png"
          alt="Natalia Zugravu"
          class="person-photo">
 
