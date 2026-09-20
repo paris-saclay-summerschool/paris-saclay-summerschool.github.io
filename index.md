@@ -5,6 +5,7 @@ permalink: /
 home_hero: true
 hero_overview: true
 hero_image: /assets/images/hero-2027.jpg
+nav_active: overview
 ---
 
 <!-- <h2 id="about">About the Summer School</h2> -->
