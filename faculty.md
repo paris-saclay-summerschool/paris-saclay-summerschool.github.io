@@ -54,7 +54,7 @@ hero_image: /assets/images/academic-team-hero.jpg
   <div class="person-card">
 
     <img src="/assets/images/people/ugo-bolletta.jpg"
-         alt="Ugo Bolletta"
+         alt="Ugo Boletta"
          class="person-photo">
 
     <div class="person-info">
