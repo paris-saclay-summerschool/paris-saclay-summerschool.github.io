@@ -49,36 +49,10 @@
   display: flex;
   align-items: center;
   gap: 0;
-}
-
-.greedy-nav .visible-links a {
-  margin: 0;
-  padding-left: 0.55rem;
-  padding-right: 0.55rem;
-  font-size: 0.82rem;
-  font-weight: 500;
-  color: #222 !important;
-  text-decoration: none !important;
-  transition: color 0.15s ease;
-}
-
-.greedy-nav .visible-links a::before {
-  display: none;
-}
-
-.greedy-nav .visible-links a:hover {
-  color: #00778B !important;
-}
-
-.greedy-nav .visible-links a[aria-current="page"] {
-  color: #00778B !important;
 }*/
 
-.greedy-nav {
-  background: #fff;
-}
-
 .greedy-nav .visible-links a,
+.greedy-nav .visible-links a:link,
 .greedy-nav .visible-links a:visited {
   margin: 0;
   padding-left: 0.55rem;
@@ -91,7 +65,19 @@
 }
 
 .greedy-nav .visible-links a::before {
-  display: none;
+  display: none !important;
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #00778B !important;
+  text-decoration: none !important;
+}
+
+.greedy-nav .visible-links a[aria-current="page"],
+.greedy-nav .visible-links a[aria-current="page"]:link,
+.greedy-nav .visible-links a[aria-current="page"]:visited,
+.greedy-nav .visible-links a[aria-current="page"]:hover {
+  color: #00778B !important;
 }
 
 /* Hover */
