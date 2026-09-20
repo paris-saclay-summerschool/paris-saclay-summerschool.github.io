@@ -23,24 +23,24 @@
         </a>
 
         <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
+  {%- for link in site.data.navigation.main -%}
 
-            {% assign link_url = link.url | relative_url %}
+    {% assign link_url = link.url | relative_url %}
+    {% assign current_page = page.permalink | default: page.url %}
 
-            <li class="masthead__menu-item">
-  <a
-  href="{{ link_url }}"
-  {% if link.description %}title="{{ link.description }}"{% endif %}
-  {% if link.target %}target="{{ link.target }}"{% endif %}
->
-  {{ link.title }}
-</a>
-              
-            </li>
+    <li class="masthead__menu-item">
+      <a
+        href="{{ link_url }}"
+        {% if current_page == link.url %}aria-current="page"{% endif %}
+        {% if link.description %}title="{{ link.description }}"{% endif %}
+        {% if link.target %}target="{{ link.target }}"{% endif %}
+      >
+        {{ link.title }}
+      </a>
+    </li>
 
-          {%- endfor -%}
-        </ul>
-
+  {%- endfor -%}
+</ul>
         {% if site.search == true %}
           <button class="search__toggle" type="button">
             <span class="visually-hidden">
@@ -58,24 +58,6 @@
         </button>
 
         <ul class="hidden-links hidden"></ul>
-
-        <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const currentPath = window.location.pathname.replace(/\/index\.html$/, "/");
-
-    document.querySelectorAll("#site-nav .visible-links a").forEach(function (link) {
-      const linkPath = new URL(link.href, window.location.origin)
-        .pathname
-        .replace(/\/index\.html$/, "/");
-
-      link.removeAttribute("aria-current");
-
-      if (linkPath === currentPath) {
-        link.setAttribute("aria-current", "page");
-      }
-    });
-  });
-</script>
         
       </nav>
     </div>
