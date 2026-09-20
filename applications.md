@@ -5,6 +5,7 @@ permalink: /applications/
 home_hero: true
 hero_title: "Information & Fees"
 hero_image: /assets/images/applications-hero.jpg
+nav_active: applications
 ---
 
 <p class="applications-intro">
