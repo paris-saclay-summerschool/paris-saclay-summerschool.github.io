@@ -5,6 +5,7 @@ permalink: /faculty/
 home_hero: true
 hero_title: "Academic Team"
 hero_image: /assets/images/academic-team-hero.jpg
+nav_active: faculty
 ---
 
 <p class="people-intro">
