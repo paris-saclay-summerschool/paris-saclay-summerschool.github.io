@@ -5,6 +5,7 @@ permalink: /social-events/
 home_hero: true
 hero_title: "Social Events"
 hero_image: /assets/images/social-events-hero.jpg
+nav_active: social
 ---
 
 <p class="social-intro">
