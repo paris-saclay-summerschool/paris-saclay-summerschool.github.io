@@ -78,7 +78,6 @@
   background: #fff;
 }
 
-
 .greedy-nav .visible-links a,
 .greedy-nav .visible-links a:visited {
   margin: 0;
@@ -95,7 +94,19 @@
   display: none;
 }
 
+/* Hover */
 .greedy-nav .visible-links a:hover {
+  color: #00778B !important;
+}
+
+/* Current page */
+.greedy-nav .visible-links a[aria-current="page"],
+.greedy-nav .visible-links a[aria-current="page"]:visited,
+.greedy-nav .visible-links a[aria-current="page"]:hover {
+  color: #00778B !important;
+}
+
+/*.greedy-nav .visible-links a:hover {
   color: #00778B !important;
 }
 
@@ -104,6 +115,8 @@
 .greedy-nav .visible-links a[aria-current="page"]:hover {
   color: #00778B !important;
 }
+*/
+
 
 /* Masthead */
 .masthead {
