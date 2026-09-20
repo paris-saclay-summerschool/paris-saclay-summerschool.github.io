@@ -59,6 +59,24 @@
 
         <ul class="hidden-links hidden"></ul>
 
+        <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const currentPath = window.location.pathname.replace(/\/index\.html$/, "/");
+
+    document.querySelectorAll("#site-nav .visible-links a").forEach(function (link) {
+      const linkPath = new URL(link.href, window.location.origin)
+        .pathname
+        .replace(/\/index\.html$/, "/");
+
+      link.removeAttribute("aria-current");
+
+      if (linkPath === currentPath) {
+        link.setAttribute("aria-current", "page");
+      }
+    });
+  });
+</script>
+        
       </nav>
     </div>
   </div>
