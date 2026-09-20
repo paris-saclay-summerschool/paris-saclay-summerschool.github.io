@@ -75,6 +75,14 @@
   text-decoration: none !important;
 }
 
+.greedy-nav .visible-links a[aria-current="page"],
+.greedy-nav .visible-links a[aria-current="page"]:link,
+.greedy-nav .visible-links a[aria-current="page"]:visited,
+.greedy-nav .visible-links a[aria-current="page"]:focus,
+.greedy-nav .visible-links a[aria-current="page"]:active {
+  color: #00778B !important;
+}
+
 /*.greedy-nav .visible-links a,
 .greedy-nav .visible-links a:link,
 .greedy-nav .visible-links a:visited {
