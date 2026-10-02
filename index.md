@@ -83,7 +83,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
       </h3>
 
       <div class="keynote-title">
-        Prof. of Economics
+        Professor of Economics
       </div>
 
       <div class="keynote-affiliation">
