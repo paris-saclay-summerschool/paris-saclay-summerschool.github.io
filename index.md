@@ -71,23 +71,23 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 <div class="keynote-grid">
 
   <div class="keynote-card">
-    <img src="/assets/images/keynotes/keynote-0.jpg"
+    <img src="/assets/images/keynotes/marc-fleurbaey.jpg"
          alt="Photo"
          class="keynote-photo">
 
     <div class="keynote-info">
       <h3>
-        <a href="#" target="_blank" rel="noopener">
-          First Name Last Name
+        <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank" rel="noopener">
+          Marc Fleurbaey
           </a>
       </h3>
 
       <div class="keynote-title">
-        Prof of Economics
+        Prof. of Economics
       </div>
 
       <div class="keynote-affiliation">
-        University / Institution
+        Paris School of Economics
       </div>
 
       <div class="keynote-label">
