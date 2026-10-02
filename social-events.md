@@ -45,7 +45,7 @@ nav_active: social
       Scène de Recherche
     </a>, the professional theatre located
     within ENS Paris-Saclay. The performance will be based on the work of
-    <strong>XX</strong>, offering a different perspective on this research
+    <strong><a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank" rel="noopener">Marc Fleurbaey</a></strong>, offering a different perspective on this research
     through the performing arts.
   </p>
 
@@ -54,7 +54,7 @@ nav_active: social
   </p>
 
   <p>
-    By translating the work of XX into a theatrical form, the performance
+    By translating the work of <a href="https://sites.google.com/site/marcfleurbaey/Home" target="_blank" rel="noopener">Marc Fleurbaey</a> into a theatrical form, the performance
     offers another way of engaging with its ideas and questions, at the
     intersection of academic research and artistic creation.
   </p>
