@@ -52,7 +52,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
 <p> For questions concerning applications, eligibility, or registration,
   please contact us by
-  <a class="text-link" href="mailto:[eco-summer-school@ens-paris-saclay.fr]">email</a>.</p>
+  <a class="text-link" href="mailto:ps-econ-summer-school@ens-paris-saclay.fr">email</a>.</p>
 
 <div class="important-dates" id="dates">
   <h2>Important Dates</h2>
