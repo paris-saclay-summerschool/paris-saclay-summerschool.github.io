@@ -71,7 +71,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 <div class="keynote-grid">
 
   <div class="keynote-card">
-    <img src="/assets/images/keynotes/marc-fleurbaey.jpg"
+    <img src="/assets/images/keynotes/marc-fleurbaey.jpeg"
          alt="Photo"
          class="keynote-photo">
 
