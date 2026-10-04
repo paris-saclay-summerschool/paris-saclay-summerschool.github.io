@@ -168,8 +168,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
     ENS Paris-Saclay equality representative, Claire Lambard,
     <em>chargée de mission égalité</em>, at
     <a href="mailto:mission.egalite@ens-paris-saclay.fr">
-      mission.egalite [at] ens-paris-saclay.fr
-    </a>.
+      mission.egalite [at] ens-paris-saclay.fr</a>.
   </p>
 
 </div>
