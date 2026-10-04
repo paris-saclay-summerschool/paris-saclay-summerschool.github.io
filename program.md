@@ -105,7 +105,7 @@ choices of households, acting as an additional determinant beyond the usual ones
 
 <details class="course-item">
     <summary>
-      <span>How Inequality Destabilize the (Macro)economy</span>
+      <span>How Inequality Destabilises the (Macro)economy</span>
       <span class="course-toggle" aria-hidden="true"></span>
     </summary>
 
