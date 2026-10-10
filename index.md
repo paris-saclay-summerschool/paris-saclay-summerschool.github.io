@@ -111,17 +111,17 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
     <div class="keynote-info">
       <h3>
-        <a href="#" target="_blank" rel="noopener">
-          First Name Last Name
+        <a href="https://sites.google.com/site/aupommeret/" target="_blank" rel="noopener">
+          Aude Pommeret
         </a>
       </h3>
 
       <div class="keynote-title">
-        Professor of Computer Science
+        Professor of Economics
       </div>
 
       <div class="keynote-affiliation">
-        University / Institution
+        University Savoie Mont Blanc
       </div>
 
       <div class="keynote-label">
