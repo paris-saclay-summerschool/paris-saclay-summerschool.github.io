@@ -1056,9 +1056,19 @@ a.hero-btn--secondary:focus {
   width: 90%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
-object-position: center 15%;
+object-position: center;
   border-radius: 8px;
   margin-bottom: 0.9rem;
+}
+
+/* Individual keynote photo positioning */
+
+.keynote-photo--1 {
+  object-position: center 15%;
+}
+
+.keynote-photo--2 {
+  object-position: center 5%;
 }
 
 .keynote-info h3 {
