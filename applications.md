@@ -118,7 +118,7 @@ nav_active: applications
   </table>
 </div>
 
-<p> *The accommodation package additionally includes housing <strong>on the campus, from July 4 to July 11, 2027</strong>.
+<p> *The accommodation package additionally includes housing, from July 4 to July 11, 2027</strong>.
 </p>
 
 <p class="fees-note">
@@ -129,7 +129,7 @@ nav_active: applications
 
 <p>
   Participants who complete the Summer School will receive a
-  certificate of attendanc indicating the courses
+  certificate of attendance indicating the courses
   attended and the corresponding number of teaching hours.
 </p>
 
