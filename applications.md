@@ -118,7 +118,7 @@ nav_active: applications
   </table>
 </div>
 
-<p> *The accommodation package additionally includes housing, from July 4 to July 11, 2027</strong>.
+<p> *The accommodation package additionally includes housing, <strong>from July 4 to July 11, 2027</strong>.
 </p>
 
 <p class="fees-note">
