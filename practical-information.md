@@ -88,7 +88,7 @@ hero_image: /assets/images/practical-information-hero.jpg
 
 <p>
   Participants who complete the Summer School will receive a
-  <strong>certificate of attendance</strong> indicating the courses
+  certificate of attendance indicating the courses
   attended and the corresponding number of teaching hours.
 </p>
 
