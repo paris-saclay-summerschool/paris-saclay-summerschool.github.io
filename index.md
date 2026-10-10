@@ -13,7 +13,7 @@ nav_active: overview
 <p>
   The Paris-Saclay Summer School in Economics is an annual initiative of the
   <a class="text-link" href="URL-DU-CEPS" target="_blank" rel="noopener">
-    Centre for Economics at Paris-Saclay (CEPS)</a>, designed to bring together students and researchers around emerging areas
+    Centre for Economics at Paris-Saclay (CEPS)</a>, designed to bring together students and researchers around areas
   of economic research.
 </p>
 
