@@ -178,7 +178,7 @@ nav_active: faculty
 
     <img src="/assets/images/people/jerome-hericourt.jpg"
          alt="Jérôme Héricourt"
-         class="person-photo">
+         class="person-photo-2">
 
     <div class="person-info">
 
@@ -337,7 +337,7 @@ nav_active: faculty
 
     <img src="/assets/images/people/xiangyu-qu.jpg"
          alt="Xiangyu Qu"
-         class="person-photo">
+         class="person-photo-3">
 
     <div class="person-info">
 
@@ -410,7 +410,7 @@ nav_active: faculty
 
     <img src="/assets/images/people/maria-sanin.jpg"
          alt="Maria Eugenia Sanin"
-         class="person-photo">
+         class="person-photo-3">
 
     <div class="person-info">
 
