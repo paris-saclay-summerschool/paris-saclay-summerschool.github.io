@@ -70,10 +70,15 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
 <div class="keynote-grid">
 
-  <div class="keynote-card">
+
+       <div class="keynote-card">
     <img src="/assets/images/keynotes/marc-fleurbaey.jpg"
+     alt="Marc Fleurbaey"
+     class="keynote-photo keynote-photo--1">
+
+<!-- <img src="/assets/images/keynotes/marc-fleurbaey.jpg"
          alt="Photo"
-         class="keynote-photo">
+         class="keynote-photo"> -->
 
     <div class="keynote-info">
       <h3>
@@ -105,9 +110,12 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
 
   <div class="keynote-card">
-    <img src="/assets/images/keynotes/aude-pommeret.jpeg"
+      <img src="/assets/images/keynotes/aude-pommeret.jpeg"
+     alt="Aued Pommeret"
+     class="keynote-photo keynote-photo--2">
+    <!-- <img src="/assets/images/keynotes/aude-pommeret.jpeg"
          alt="Photo"
-         class="keynote-photo">
+         class="keynote-photo"> -->
 
     <div class="keynote-info">
       <h3>
