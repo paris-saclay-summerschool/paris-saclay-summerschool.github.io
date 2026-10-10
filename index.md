@@ -105,7 +105,7 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
 
   <div class="keynote-card">
-    <img src="/assets/images/keynotes/aude-pommeret.jpg"
+    <img src="/assets/images/keynotes/aude-pommeret.jpeg"
          alt="Photo"
          class="keynote-photo">
 
