@@ -722,6 +722,7 @@ a.hero-btn--secondary:focus {
   width: 155px;
   height: 155px;
   flex: 0 0 155px;
+   object-fit: cover;
     object-position: center 10%;
   border-radius: 6px;
 }
@@ -730,6 +731,7 @@ a.hero-btn--secondary:focus {
   width: 155px;
   height: 155px;
   flex: 0 0 155px;
+   object-fit: cover;
  object-position: center 30%;
   border-radius: 6px;
 }
