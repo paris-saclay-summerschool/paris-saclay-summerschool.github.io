@@ -229,6 +229,20 @@
   width: 200px;
 }
 
+/* Optical alignment of institutional logos */
+
+.sidebar-logo-ceps {
+  margin-left: 0;
+}
+
+.sidebar-logo-ens {
+  margin-left: -15px;
+}
+
+.sidebar-logo-gs {
+  margin-left: -12px;
+}
+
 /* ENS logo belongs to the Venue block */
 .sidebar-logo-venue {
   margin-top: 0.1rem;
