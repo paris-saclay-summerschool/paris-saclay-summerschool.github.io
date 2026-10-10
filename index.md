@@ -96,9 +96,9 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
       <!-- Optional, once the title is known -->
   
-      <div class="keynote-talk">
+      <!-- <div class="keynote-talk">
         <em>tba</em>
-      </div>
+      </div> -->
       
     </div>
   </div>
@@ -130,9 +130,9 @@ The Summer School welcomes PhD students and advanced Master's students in econom
 
       <!-- Optional -->
   
-      <div class="keynote-talk">
+      <!-- <div class="keynote-talk">
         <em>tba</em>
-      </div>
+      </div> -->
       
     </div>
   </div>
