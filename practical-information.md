@@ -87,9 +87,7 @@ hero_image: /assets/images/practical-information-hero.jpg
 <h2>Certificate of Attendance &amp; ECTS</h2>
 
 <p>
-  Participants who complete the Summer School will receive a
-  certificate of attendance indicating the courses
-  attended and the corresponding number of teaching hours.
+  Participants who complete the Summer School will receive a certificate of attendance indicating the courses attended and the corresponding number of teaching hours.
 </p>
 
 <p>
