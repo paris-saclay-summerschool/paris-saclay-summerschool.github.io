@@ -127,7 +127,7 @@ This course examines the links between inequality dynamics and growing macroecon
 
   <details class="course-item">
     <summary>
-      <span>Sustainable Development and Intergenerational Equity</span>
+      <span>Sustainable Development and Intergenerational Equity<br>What should we leave to future generations?</span>
       <span class="course-toggle" aria-hidden="true"></span>
     </summary>
 
@@ -137,7 +137,9 @@ This course examines the links between inequality dynamics and growing macroecon
         <a href="https://sites.google.com/site/martinetvincent/">Vincent Martinet</a><br>
         Paris-Saclay Applied Economics – INRAE · Centre for Economics at Paris-Saclay
       </p>
-
+Can economic growth continue indefinitely on a planet with finite natural resources? And how can we determine whether today's economic development is sustainable? These questions lie at the heart of sustainable development and raise fundamental issues of intergenerational equity. While sustainability is often presented as a consensual objective, defining what should be preserved for future generations involves difficult trade-offs between present and future well-being, economic development, and environmental conservation. Economics provides a framework for understanding these trade-offs, but also reveals how strongly our conclusions depend on the ethical principles and assumptions underlying economic models.<br><br>
+ 
+This lecture explores how economic theory addresses these questions, drawing on foundational contributions to growth theory and natural resource economics. We will examine whether an economy can sustain consumption despite the depletion of non-renewable resources, and discuss the implications of alternative approaches to intergenerational equity. Particular attention will be paid to Hartwick's rule, which examines how investment can compensate for resource depletion, and to the concept of genuine savings, used by the World Bank to assess sustainability. The lecture will also highlight the links between economic analysis and broader environmental and ethical debates, including the distinction between weak and strong sustainability, and discuss both the potential and the limitations of economic indicators for guiding real-world policy decisions.
       <p>
         tba
       </p>
@@ -156,7 +158,13 @@ This course examines the links between inequality dynamics and growing macroecon
         <a href="https://sites.google.com/view/natalia-zugravu-soilita/home">Natalia Zugravu</a><br>
         University of Versailles Saint-Quentin-en-Yvelines · SOURCE · Centre for Economics at Paris-Saclay
       </p>
+FDI, Trade, and the Environment: From Pollution Havens to Genuine Openness
+Does economic openness make production dirtier or cleaner? This lecture follows the question through the main channels by which globalization reaches the environment: where multinational firms locate, which technologies they bring, how they split production chains across borders, and how trade in goods, including environmental goods, and the tariffs on that trade relate to emissions. The pollution haven, factor endowments and pollution halo hypotheses act together and pull in opposite directions, so the net effect depends on host-country regulation, institutions, endowments and net trade position. The lecture ends with current research on “genuine openness”. It asks whether the carbon footprint of trade depends on how much a sector trades or on the tariffs under which it trades. These questions are at the center of debates on carbon leakage and the EU CBAM, on WTO negotiations over environmental goods, and on the climate cost of today’s tariff wars and trade fragmentation. The lecture draws on international political economy, trade law, economic geography and supply-chain management. On the methods side, it follows how identification strategies have changed in this field: simultaneous-equation and conditional logit models, conditional marginal effects, multi-equation GMM with mediation analysis, M&A data combined with input–output linkages, and high-dimensional fixed-effects panels.<br><br>
 
+</span>Outline<span><br>
+1. Openness and pollution: framework and first evidence. The scale, composition and technique decomposition. Endogenous environmental policy. The case of post-communist transition.<br>
+2. FDI: location, conditional effects and pollution offshoring. French firms’ location choices abroad. The haven, endowments and halo effects of FDI in host countries. Partial offshoring along international production chains.<br>
+3. Trade: environmental goods, tariffs and fragmentation. Is liberalizing environmental goods a win-win? De facto versus de jure openness and the carbon intensity of manufacturing.
       <p>
         tba
       </p>
