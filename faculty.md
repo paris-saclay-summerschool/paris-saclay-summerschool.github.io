@@ -90,9 +90,9 @@ nav_active: faculty
 
   <div class="person-card">
 
-    <img src="/assets/images/people/stefano-bosi.jpg"
+    <img src="/assets/images/people/stefano-bosi2.jpg"
          alt="Stefano Bosi"
-         class="person-photo-4">
+         class="person-photo">
 
     <div class="person-info">
 
