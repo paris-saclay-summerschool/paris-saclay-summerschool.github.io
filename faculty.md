@@ -92,7 +92,7 @@ nav_active: faculty
 
     <img src="/assets/images/people/stefano-bosi.jpg"
          alt="Stefano Bosi"
-         class="person-photo-2">
+         class="person-photo-3">
 
     <div class="person-info">
 
