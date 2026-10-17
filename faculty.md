@@ -90,7 +90,7 @@ nav_active: faculty
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-2.jpg"
+    <img src="/assets/images/people/stefano-bosi.jpg"
          alt="Stefano Bosi"
          class="person-photo">
 
@@ -147,7 +147,7 @@ nav_active: faculty
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-4.jpg"
+    <img src="/assets/images/people/michael-greinecker.jpg"
          alt="Michael Greinecker"
          class="person-photo">
 
@@ -306,7 +306,7 @@ nav_active: faculty
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-8.jpg"
+    <img src="/assets/images/people/morgan-patty.jpg"
          alt="Morgan Patty"
          class="person-photo">
 
