@@ -753,6 +753,14 @@ a.hero-btn--secondary:focus {
   border-radius: 6px;
 }
 
+.person-photo-4 {
+  width: 155px;
+  height: 155px;
+  flex: 0 0 155px;
+   object-fit: cover;
+ object-position: center 50%;
+  border-radius: 6px;
+}
 
 .person-photo--director {
   width: 155px;
