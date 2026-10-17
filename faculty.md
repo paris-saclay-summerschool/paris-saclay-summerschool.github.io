@@ -92,7 +92,7 @@ nav_active: faculty
 
     <img src="/assets/images/people/stefano-bosi.jpg"
          alt="Stefano Bosi"
-         class="person-photo">
+         class="person-photo-2">
 
     <div class="person-info">
 
@@ -149,7 +149,7 @@ nav_active: faculty
 
     <img src="/assets/images/people/michael-greinecker.jpg"
          alt="Michael Greinecker"
-         class="person-photo">
+         class="person-photo-2">
 
     <div class="person-info">
 
