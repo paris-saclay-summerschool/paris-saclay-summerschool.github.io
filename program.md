@@ -83,7 +83,7 @@ Together, these lectures introduce participants to questions and methods at the 
         <strong>Keynote speaker:</strong>
          <a href="https://sites.google.com/site/aupommeret/"
            target="_blank" rel="noopener">
-        Aude Pommeret
+        Aude Pommeret</a>
       </p>
 
       <p>
