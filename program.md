@@ -33,6 +33,71 @@ Together, these lectures introduce participants to questions and methods at the 
   </a>
 </div>
 
+<h2>Keynote Lectures</h2>
+
+<div class="course-list">
+
+  <!-- Marc Fleurbaey -->
+
+  <details class="course-item">
+    <summary>
+      <span>Marc Fleurbaey</span>
+      <span class="course-toggle" aria-hidden="true"></span>
+    </summary>
+
+    <div class="course-content">
+
+      <p class="course-professor">
+        <strong>Keynote speaker:</strong>
+        <a href="https://sites.google.com/site/marcfleurbaey/"
+           target="_blank" rel="noopener">
+          Marc Fleurbaey
+        </a>
+      </p>
+
+      <p>
+        <strong>Lecture title:</strong>
+        <em>To be announced</em>
+      </p>
+
+      <p>
+        <strong>Abstract:</strong>
+        To be announced.
+      </p>
+
+    </div>
+  </details>
+
+
+  <!-- Aude Pommeret -->
+
+  <details class="course-item">
+    <summary>
+      <span>Aude Pommeret</span>
+      <span class="course-toggle" aria-hidden="true"></span>
+    </summary>
+
+    <div class="course-content">
+
+      <p class="course-professor">
+        <strong>Keynote speaker:</strong>
+        Aude Pommeret
+      </p>
+
+      <p>
+        <strong>Lecture title:</strong>
+        <em>To be announced</em>
+      </p>
+
+      <p>
+        <strong>Abstract:</strong>
+        To be announced.
+      </p>
+
+    </div>
+  </details>
+
+</div>
 
 <h2>Course Details</h2>
 
