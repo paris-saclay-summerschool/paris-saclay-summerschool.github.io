@@ -118,7 +118,7 @@ nav_active: faculty
 
   <div class="person-card">
 
-    <img src="/assets/images/people/person-3.jpg"
+    <img src="/assets/images/people/matthieu-crozet.jpg"
          alt="Matthieu Crozet"
          class="person-photo">
 
@@ -211,7 +211,7 @@ nav_active: faculty
 
  <div class="person-card">
 
-    <img src="/assets/images/people/person-21.jpg"
+    <img src="/assets/images/people/eleni-iliopulos.jpg"
          alt="Eleni Iliopulos"
          class="person-photo">
 
