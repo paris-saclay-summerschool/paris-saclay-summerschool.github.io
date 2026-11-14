@@ -61,10 +61,17 @@ nav_active: applications
     they would like to present during the Summer School -->
 </ul>
 
-<p class="application-action">
+<a class="hero-btn hero-btn--primary application-apply"
+   href="https://tally.so/r/BEKB14"
+   target="_blank"
+   rel="noopener noreferrer">
+  Apply now →
+</a>
+
+<!-- <p class="application-action">
   <a class="hero-btn hero-btn--primary" href="#">
     Application → (opens later)
-  </a>
+  </a> -->
 </p>
 
 
