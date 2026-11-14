@@ -44,12 +44,18 @@ The Summer School welcomes PhD students and advanced Master's students in econom
       Information &amp; Fees →
     </a>
 
- <a class="hero-btn hero-btn--primary"
+<!-- <a class="hero-btn hero-btn--primary"
    href="https://tally.so/r/BEKB14"
    target="_blank"
    rel="noopener noreferrer">
   Apply now →
-</a> 
+</a> -->
+
+ <a class="hero-btn hero-btn--primary application-apply" href="https://tally.so/r/BEKB14" target="_blank"
+   rel="noopener noreferrer">
+      Apply now →
+    </a> 
+
     <!-- <a class="hero-btn hero-btn--primary application-apply" href="#">
       Application → (opens later)
     </a> -->
